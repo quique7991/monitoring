@@ -1,0 +1,81 @@
+Group All
+Group gGF 		(All)
+Group gFF 		(All)
+Group gC 		(All)
+Group Outdoor 	(All)
+Group Shutters 	(All)
+Group Weather 	(All)
+Group Status 	(All)
+
+Group GF_Living 	"Living Room" 	<video> 	(gGF)
+Group GF_Kitchen 	"Kitchen" 		<kitchen> 	(gGF)
+Group GF_Toilet 	"Toilet" 		<bath> 		(gGF)
+Group GF_Corridor 	"Corridor" 		<corridor> 	(gGF)
+
+Group FF_Bath 		"Bathroom" 		<bath> 		(gFF)
+Group FF_Office 	"Office" 		<office> 	(gFF)
+Group FF_Child 		"Child's Room" 	<boy1> 		(gFF)
+Group FF_Bed 		"Bedroom" 		<bedroom> 	(gFF)
+Group FF_Corridor 	"Corridor" 		<corridor> 	(gFF)
+/*My Groups*/
+Group Zwave		"Zwave"		(All)
+Group Arduino		"Arduino"	 (All)
+Group Bedroom1		"Bedroom 1"	<bedroom>		(All)
+Group Bedroom2		"Bedroom 2"		<bedroom>	(All)
+Group Hallway		"Hallway"		<corridor>	(All)
+Group Activity 		"Activity Alarms" <siren>	(All)
+Group Charts		"My Charts" (All)
+
+/* active groups */
+Group:Switch:OR(ON, OFF) 		Lights 		"All Lights [(%d)]" 								(All)
+Group:Switch:OR(ON, OFF) 		Heating 	"No. of Active Heatings [(%d)]" 	<heating> 		(All)
+Group:Number:AVG 				Temperature	"Avg. Room Temperature [%.1f °C]" 	<temperature>	(Status)
+Group:Contact:OR(OPEN, CLOSED) 	Windows 	"Open windows [(%d)]"				<contact>		(All)
+
+Group Weather_Chart													(Weather)
+Number Weather_Temperature 		"Outside Temperature [%.1f °C]"	<temperature> (Weather_Chart) { http="<[http://weather.yahooapis.com/forecastrss?w=12770733&u=c:60000:XSLT(yahoo_weather_temperature.xsl)]" }
+Number Weather_Temp_Max 		"Todays Maximum [%.1f °C]"	<temperature> (Weather_Chart)
+Number Weather_Temp_Min 		"Todays Minimum [%.1f °C]"	<temperature> (Weather_Chart)
+Number Weather_Chart_Period		"Chart Period"
+DateTime Weather_LastUpdate		"Last Update [%1$ta %1$tR]"	<clock>
+
+/* NTP binding demo item */
+DateTime		Date			"Date [%1$tA, %1$td.%1$tm.%1$tY]"	<calendar>	{ ntp="Europe/Berlin:de_DE" }
+
+/*MODIFICATIONS*/
+/*Light Switches*/
+Switch ZBedroom1            "Light Bedroom 1"    (Zwave,Bedroom1) {zwave="10:command=switch_binary"}
+Switch ZBedroom2            "Light Bedroom 2"    (Zwave,Bedroom2) {zwave="17:command=switch_binary"}
+Switch ZHallway            "Light Hallway"    (Zwave,Hallway) {zwave="21:command=switch_binary"}
+/*4in1 Multisensors*/
+/*Bedroom 1*/
+Number	Temp_Bedroom1	"Bedroom 1 temperature: [%.1f F]"	<temperature> (Zwave,Bedroom1)		{ zwave="15:0:command=sensor_multilevel,sensor_type=1" }
+Number	Humid_Sensor_Bedroom1	"Bedroom 1 Relative humidity: [%.0f %%]"	<water>	(Zwave,Bedroom1) { zwave="15:0:command=sensor_multilevel,sensor_type=5" }
+Number	Lumin_Sensor_Bedroom1	"Bedroom 1 Luminance: [%.0f Lux]"	<sun>	(Zwave,Bedroom1)		{ zwave="15:0:command=sensor_multilevel,sensor_type=3" }
+Number	Battery_Sensor_Bedroom1	"Bedroom 1 Sensor Battery: [%d %%]"	<battery> (Zwave,Bedroom1)		{ zwave="15:command=battery" }
+Contact	Motion_Sensor_Bedroom1	"Bedroom 1 Sensor [MAP(motion.map):%s]"	(Zwave,Bedroom1) { zwave="15:0:command=sensor_binary,respond_to_basic=true" }
+/*Bedroom 2*/
+Number	Temp_Bedroom2	"Bedroom 2 temperature: [%.1f F]"	<temperature> (Zwave,Bedroom2)		{ zwave="19:0:command=sensor_multilevel,sensor_type=1" }
+Number	Humid_Sensor_Bedroom2	"Bedroom 2 Relative humidity: [%.0f %%]"	<water>	(Zwave,Bedroom2) { zwave="19:0:command=sensor_multilevel,sensor_type=5" }
+Number	Lumin2_Sensor_Bedroom2	"Bedroom 2 Luminance: [%.0f Lux]"	<sun>	(Zwave,Bedroom2)		{ zwave="19:0:command=sensor_multilevel,sensor_type=3" }
+Number	Battery2_Sensor_Bedroom2	"Bedroom 2 Sensor Battery: [%d %%]"	<battery> (Zwave,Bedroom2)		{ zwave="19:command=battery" }
+Contact	Motion_Sensor_Bedroom2	"Bedroom 2 Sensor [MAP(motion.map):%s]"	(Zwave,Bedroom2) { zwave="19:0:command=sensor_binary,respond_to_basic=true" }
+/*Hallway*/
+Number	Temp_Hall	"Hallway temperature: [%.1f F]"	<temperature> (Zwave,Hallway)		{ zwave="20:0:command=sensor_multilevel,sensor_type=1" }
+Number	Humid_Sensor_Hall	"Hallway Relative humidity: [%.0f %%]"	<water>	(Zwave,Hallway) { zwave="20:0:command=sensor_multilevel,sensor_type=5" }
+Number	Lumin_Sensor_Hall	"Hallway Luminance: [%.0f Lux]"	<sun>	(Zwave,Hallway)		{ zwave="20:0:command=sensor_multilevel,sensor_type=3" }
+Number	Battery_Sensor_Hall	"Hallway Sensor Battery: [%d %%]"	<battery> (Zwave,Hallway)		{ zwave="20:command=battery" }
+Contact	Motion_Sensor_Hall	"Hallway	 Sensor [MAP(motion.map):%s]"	(Zwave,Hallway) { zwave="20:0:command=sensor_binary,respond_to_basic=true" }
+
+
+
+/*Door Sensors*/
+Contact	Motion_Sensor	"Door Sensor [MAP(motion.map):%s]"	(Zwave) { zwave="14:0:command=sensor_binary,respond_to_basic=true" }
+
+/*Arduino*/
+String ArduinoButton "Arduino Button [%d]" (Charts) { serial="/dev/ttyACM0" }
+
+/*Activity Variables*/
+Switch ActivityBedroom1 (Activity)
+Switch ActivityBedroom2 (Activity)
+Switch ActivityHallway (Activity)

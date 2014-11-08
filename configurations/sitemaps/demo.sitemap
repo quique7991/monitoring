@@ -1,0 +1,51 @@
+sitemap demo label="Main Menu"
+{
+	Frame label="Charts"{	
+		Text label="Prueba"{
+			Frame{
+				Chart item=ArduinoButton period=h refresh=600
+			}
+		}	
+	}
+	Frame { 
+		Switch item=ZBedroom1 label="Toggle Switch for Light"
+		Text item=ArduinoButton
+	}
+	
+	Frame {
+		Switch item=ZBedroom2 label="Toggle Switch for Light"
+		Group item=Zwave label="Zwave"
+	}
+	
+	Frame {
+		Group item=Bedroom1 label="Bedroom 1"
+	}
+	Frame {
+		Group item=Bedroom2 label="Bedroom 2"
+	}
+	Frame {
+		Group item=Hallway label="Hallway"
+	}
+	Frame {
+		Group item=Activity label="Activity detection"
+	}	
+	
+	Frame label="Weather" {
+		Text item=Weather_Temperature valuecolor=[Weather_LastUpdate=="Uninitialized"="lightgray",Weather_LastUpdate>90="lightgray",>25="orange",>15="green",>5="orange",<=5="blue"] {
+			Frame {
+				Text item=Weather_Temp_Max valuecolor=[>25="orange",>15="green",>5="orange",<=5="blue"]
+				Text item=Weather_Temp_Min valuecolor=[>25="orange",>15="green",>5="orange",<=5="blue"]
+				Text item=Weather_LastUpdate visibility=[Weather_LastUpdate>30] valuecolor=[Weather_LastUpdate>120="orange", Weather_LastUpdate>300="red"]
+			}
+			Frame {
+				Switch item=Weather_Chart_Period label="Chart Period" mappings=[0="Hour", 1="Day", 2="Week"]
+				Chart item=Weather_Chart period=h refresh=600 visibility=[Weather_Chart_Period==0, Weather_Chart_Period=="Uninitialized"]
+				Chart item=Weather_Chart period=D refresh=3600 visibility=[Weather_Chart_Period==1]
+				Chart item=Weather_Chart period=W refresh=3600 visibility=[Weather_Chart_Period==2]
+			}
+		}
+	}
+	Frame label="Date" {
+		Text item=Date
+	}
+}
