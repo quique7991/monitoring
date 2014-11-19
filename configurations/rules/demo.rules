@@ -4,24 +4,9 @@ import org.openhab.core.persistence.*
 
 import org.openhab.model.script.actions.*
 
+import org.openhab.core.library.types.DecimalType
 
-rule "Initialize contact states"
-
-	when 
-
-		System started
-
-	then
-
-		Windows?.members.forEach(window|
-
-			postUpdate(window, if(Math::random > 0.5) OPEN else CLOSED)
-
-		)
-
-end
-
-
+var String[] buffer
 
 rule "Update max and min temperatures"
 
@@ -90,13 +75,17 @@ end
 rule "Turn on the lights"
 
 when
-  Item ArduinoButton changed 
+  Item ArduinoCoordinator received update 
 then
-  if(ArduinoButton.state == '48'){
-    sendCommand(ZHallway,ON)
+  buffer= ArduinoCoordinator.state.toString.split("~")
+  if(buffer.get(0)=="4"){
+     postUpdate (ArduinoSlave1, buffer.get(1))
+  }
+  else if(buffer.get(0)=="5"){
+    postUpdate (ArduinoSlave2, buffer.get(1)) 	
   }
   else{
-    sendCommand(ZHallway,OFF)
+    postUpdate(ArduinoSlave1,buffer.get(1))
   }
 end
 
@@ -159,7 +148,7 @@ rule "ActivityBedroom2"
 when
         Item Motion_Sensor_Bedroom2 received update
 then
-        if(Motion2_Sensor_Bedroom2.state == CLOSED){
+        if(Motion_Sensor_Bedroom2.state == CLOSED){
                 sendCommand(ActivityBedroom2,OFF)
         }
         else{

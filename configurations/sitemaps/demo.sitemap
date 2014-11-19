@@ -16,6 +16,12 @@ sitemap demo label="Main Menu"
 		Switch item=ZBedroom2 label="Toggle Switch for Light"
 		Group item=Zwave label="Zwave"
 	}
+     
+        Frame {
+		Text item=ArduinoCoordinator
+                Text item=ArduinoSlave1
+                Text item=ArduinoSlave2
+	}
 	
 	Frame {
 		Group item=Bedroom1 label="Bedroom 1"
