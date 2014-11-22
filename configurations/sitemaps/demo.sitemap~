@@ -1,13 +1,28 @@
 sitemap demo label="Main Menu"
 {
-	Frame label="Date" {
-		Text item=Date
+	Frame label="Charts"{	
+		Text label="Prueba"{
+			Frame{
+				Chart item=ArduinoButton period=h refresh=600
+			}
+		}	
+	}
+	Frame { 
+		Switch item=ZBedroom1 label="Toggle Switch for Light"
+		Text item=ArduinoButton
 	}
 	
-	Frame { 
-		Group item=Lights label="Lights"
+	Frame {
+		Switch item=ZBedroom2 label="Toggle Switch for Light"
+		Group item=Zwave label="Zwave"
 	}
      
+        Frame {
+		Text item=ArduinoCoordinator
+                Text item=ArduinoSlave1
+                Text item=ArduinoSlave2
+	}
+	
 	Frame {
 		Group item=Bedroom1 label="Bedroom 1"
 	}
@@ -18,38 +33,8 @@ sitemap demo label="Main Menu"
 		Group item=Hallway label="Hallway"
 	}
 	Frame {
-		Group item=Bathroom label="Bathroom"
-	}
-	Frame {
-		Group item=Kitchen label="Kitchen"
-	}		
-	Frame {
 		Group item=Activity label="Activity detection"
 	}	
-	Frame {
-		Group item=GlobalActivity label="Automatic activity"
-	}
-
-    Frame {
-		Text item=ArduinoCoordinator
-		Group item=Arduino label="Arduino"
-	}
-
-    Frame {
-		Group item=Zwave label="ZWave"
-	}
-
-	Frame label="Charts"{	
-		Text label="Prueba"{
-			Frame{
-				Chart item=ArduinoCoordinator period=h refresh=600
-			}
-		}	
-	}
-
-	Frame label="Information"{
-		Group item=Temperature
-	}
 	
 	Frame label="Weather" {
 		Text item=Weather_Temperature valuecolor=[Weather_LastUpdate=="Uninitialized"="lightgray",Weather_LastUpdate>90="lightgray",>25="orange",>15="green",>5="orange",<=5="blue"] {
@@ -65,5 +50,8 @@ sitemap demo label="Main Menu"
 				Chart item=Weather_Chart period=W refresh=3600 visibility=[Weather_Chart_Period==2]
 			}
 		}
+	}
+	Frame label="Date" {
+		Text item=Date
 	}
 }

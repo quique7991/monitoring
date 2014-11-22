@@ -6,6 +6,7 @@ Group Outdoor 	(All)
 Group Shutters 	(All)
 Group Weather 	(All)
 Group Status 	(All)
+Group Slave 	(All)
 
 Group GF_Living 	"Living Room" 	<video> 	(gGF)
 Group GF_Kitchen 	"Kitchen" 		<kitchen> 	(gGF)
@@ -73,10 +74,10 @@ Contact	Motion_Sensor_Hall	"Hallway	 Sensor [MAP(motion.map):%s]"	(Zwave,Hallway
 Contact	Motion_Sensor	"Door Sensor [MAP(motion.map):%s]"	(Zwave) { zwave="14:0:command=sensor_binary,respond_to_basic=true" }
 
 /*Arduino*/
-String ArduinoButton "Arduino Button [%d]" (Charts) { serial="/dev/ttyACM0" }
-Number ArduinoCoordinator "Arduino Coordinator Reads [%d]" {serial="/dev/ttyACM0"}
-Number ArduinoSlave1 "Value Slave 1: [%d]" 
-Number ArduinoSlave2 "Value Slave 2: [%d]"
+/*String ArduinoButton "Arduino Button [%d]" (Charts) { serial="/dev/ttyACM0" }*/
+String ArduinoCoordinator "Arduino Coordinator Reads [%s]" {serial="/dev/ttyACM0"}
+String ArduinoSlave1 "Value Slave 1: [%s]" (Slave)
+String ArduinoSlave2 "Value Slave 2: [%s]" (Slave)
 
 /*Activity Variables*/
 Switch ActivityBedroom1 (Activity)
