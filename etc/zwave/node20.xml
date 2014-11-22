@@ -17,19 +17,12 @@
   <healState>DONE @ 2014-11-06T22:47:22+0000</healState>
   <supportedCommandClasses>
     <entry>
-      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
-      <manufacturerSpecificCommandClass>
+      <commandClass>BATTERY</commandClass>
+      <batteryCommandClass>
         <version>1</version>
         <instances>0</instances>
-      </manufacturerSpecificCommandClass>
-    </entry>
-    <entry>
-      <commandClass>VERSION</commandClass>
-      <versionCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <libraryType>LIB_UNKNOWN</libraryType>
-      </versionCommandClass>
+        <batteryLevel>100</batteryLevel>
+      </batteryCommandClass>
     </entry>
     <entry>
       <commandClass>CONFIGURATION</commandClass>
@@ -62,19 +55,19 @@
             </configurationParameter>
           </entry>
           <entry>
-            <int>3</int>
-            <configurationParameter>
-              <index>3</index>
-              <size>2</size>
-              <value>240</value>
-            </configurationParameter>
-          </entry>
-          <entry>
             <int>101</int>
             <configurationParameter>
               <index>101</index>
               <size>4</size>
               <value>225</value>
+            </configurationParameter>
+          </entry>
+          <entry>
+            <int>3</int>
+            <configurationParameter>
+              <index>3</index>
+              <size>2</size>
+              <value>240</value>
             </configurationParameter>
           </entry>
           <entry>
@@ -121,6 +114,25 @@
       </configurationCommandClass>
     </entry>
     <entry>
+      <commandClass>SENSOR_MULTILEVEL</commandClass>
+      <multiLevelSensorCommandClass>
+        <version>5</version>
+        <instances>0</instances>
+        <sensors>
+          <sensorType>LUMINANCE</sensorType>
+          <sensorType>RELATIVE_HUMIDITY</sensorType>
+          <sensorType>TEMPERATURE</sensorType>
+        </sensors>
+      </multiLevelSensorCommandClass>
+    </entry>
+    <entry>
+      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
+      <manufacturerSpecificCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </manufacturerSpecificCommandClass>
+    </entry>
+    <entry>
       <commandClass>BASIC</commandClass>
       <basicCommandClass>
         <version>1</version>
@@ -133,6 +145,21 @@
         <version>1</version>
         <instances>0</instances>
       </noOperationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>VERSION</commandClass>
+      <versionCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <libraryType>LIB_UNKNOWN</libraryType>
+      </versionCommandClass>
+    </entry>
+    <entry>
+      <commandClass>SENSOR_BINARY</commandClass>
+      <binarySensorCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </binarySensorCommandClass>
     </entry>
     <entry>
       <commandClass>ASSOCIATION</commandClass>
@@ -154,14 +181,6 @@
       </associationCommandClass>
     </entry>
     <entry>
-      <commandClass>BATTERY</commandClass>
-      <batteryCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <batteryLevel>100</batteryLevel>
-      </batteryCommandClass>
-    </entry>
-    <entry>
       <commandClass>WAKE_UP</commandClass>
       <WakeUpCommandClass>
         <version>2</version>
@@ -174,25 +193,6 @@
         <intervalStep>240</intervalStep>
       </WakeUpCommandClass>
     </entry>
-    <entry>
-      <commandClass>SENSOR_MULTILEVEL</commandClass>
-      <multiLevelSensorCommandClass>
-        <version>5</version>
-        <instances>0</instances>
-        <sensors>
-          <sensorType>LUMINANCE</sensorType>
-          <sensorType>RELATIVE_HUMIDITY</sensorType>
-          <sensorType>TEMPERATURE</sensorType>
-        </sensors>
-      </multiLevelSensorCommandClass>
-    </entry>
-    <entry>
-      <commandClass>SENSOR_BINARY</commandClass>
-      <binarySensorCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </binarySensorCommandClass>
-    </entry>
   </supportedCommandClasses>
   <nodeNeighbors>
     <int>1</int>
@@ -202,5 +202,5 @@
     <int>19</int>
     <int>21</int>
   </nodeNeighbors>
-  <lastUpdated>2014-11-06 23:36:19.942 UTC</lastUpdated>
+  <lastUpdated>2014-11-22 22:08:13.360 UTC</lastUpdated>
 </node>

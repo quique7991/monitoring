@@ -23,19 +23,11 @@
       </binarySwitchCommandClass>
     </entry>
     <entry>
-      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
-      <manufacturerSpecificCommandClass>
+      <commandClass>SCENE_ACTIVATION</commandClass>
+      <sceneActivationCommandClass>
         <version>1</version>
         <instances>0</instances>
-      </manufacturerSpecificCommandClass>
-    </entry>
-    <entry>
-      <commandClass>VERSION</commandClass>
-      <versionCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <libraryType>LIB_UNKNOWN</libraryType>
-      </versionCommandClass>
+      </sceneActivationCommandClass>
     </entry>
     <entry>
       <commandClass>CONFIGURATION</commandClass>
@@ -46,6 +38,13 @@
       </configurationCommandClass>
     </entry>
     <entry>
+      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
+      <manufacturerSpecificCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </manufacturerSpecificCommandClass>
+    </entry>
+    <entry>
       <commandClass>BASIC</commandClass>
       <basicCommandClass>
         <version>1</version>
@@ -53,18 +52,19 @@
       </basicCommandClass>
     </entry>
     <entry>
-      <commandClass>SCENE_ACTIVATION</commandClass>
-      <sceneActivationCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </sceneActivationCommandClass>
-    </entry>
-    <entry>
       <commandClass>NO_OPERATION</commandClass>
       <noOperationCommandClass>
         <version>1</version>
         <instances>0</instances>
       </noOperationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>VERSION</commandClass>
+      <versionCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <libraryType>LIB_UNKNOWN</libraryType>
+      </versionCommandClass>
     </entry>
   </supportedCommandClasses>
   <nodeNeighbors>
@@ -76,5 +76,5 @@
     <int>20</int>
     <int>21</int>
   </nodeNeighbors>
-  <lastUpdated>2014-11-06 23:45:23.876 UTC</lastUpdated>
+  <lastUpdated>2014-11-22 22:08:02.131 UTC</lastUpdated>
 </node>
