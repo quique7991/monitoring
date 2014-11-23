@@ -13,7 +13,7 @@
   <listening>true</listening>
   <frequentlyListening>false</frequentlyListening>
   <routing>true</routing>
-  <healState>FAILED during UPDATENEIGHBORS @ 2014-11-06T23:42:06+0000</healState>
+  <healState>FAILED during UPDATENEIGHBORS @ 2014-11-23T18:13:44+0000</healState>
   <supportedCommandClasses>
     <entry>
       <commandClass>SWITCH_BINARY</commandClass>
@@ -36,7 +36,17 @@
         <instances>0</instances>
       </noOperationCommandClass>
     </entry>
+    <entry>
+      <commandClass>SENSOR_MULTILEVEL</commandClass>
+      <multiLevelSensorCommandClass>
+        <version>0</version>
+        <instances>0</instances>
+        <sensors>
+          <sensorType>LUMINANCE</sensorType>
+        </sensors>
+      </multiLevelSensorCommandClass>
+    </entry>
   </supportedCommandClasses>
   <nodeNeighbors/>
-  <lastUpdated>2014-11-06 23:42:06.186 UTC</lastUpdated>
+  <lastUpdated>2014-11-23 18:13:44.703 UTC</lastUpdated>
 </node>

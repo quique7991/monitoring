@@ -67,25 +67,25 @@ end
 /** Bedroom 1 Flag */
 rule "Bedroom 1 Flag activity"
 when
-        Item flag_bedroom1 changed from OFF to ON
+        Item flag_bedroom1 changed from OFF to ON 
 then
-    	if(Motion_Sensor_Bedroom1.state == CLOSED) {
-    		sendCommand(ActivityBedroom1,ON)
+    	if(Motion_Sensor_Bedroom1.state == OPEN) {
+    		sendCommand(ActivityBedroom1,OPEN)
     	}
-    	else if (Door_Sensor_Bedroom1.state == CLOSED) {
-    		sendCommand(ActivityBedroom1,ON)
+    	else if (Door_Sensor_Bedroom1.state == OPEN) {
+    		sendCommand(ActivityBedroom1,OPEN)
     	}
-    	else if (CTV_Arduino_Bedroom1.state == CLOSED) {
-    		sendCommand(ActivityBedroom1,ON)
+    	else if (CTV_Arduino_Bedroom1.state == OPEN) {
+    		sendCommand(ActivityBedroom1,OPEN)
     	}
-    	else if (CPressure_Arduino_Bedroom1.state == CLOSED) {
-    		sendCommand(ActivityBedroom1,ON)
+    	else if (CPressure_Arduino_Bedroom1.state == OPEN) {
+    		sendCommand(ActivityBedroom1,OPEN)
     	}
-    	else if (CLedDoor_Arduino_Bedroom1.state == CLOSED) {
-    		sendCommand(ActivityBedroom1,ON)
+    	else if (CLedDoor_Arduino_Bedroom1.state == OPEN) {
+    		sendCommand(ActivityBedroom1,OPEN)
     	}  
     	else {
-    		sendCommand(ActivityBedroom1,OFF)
+    		sendCommand(ActivityBedroom1,CLOSED)
     	}  
     	
         sendCommand(flag_bedroom1,OFF)
@@ -96,20 +96,20 @@ rule "Bedroom 2 Flag activity"
 when
         Item flag_bedroom2 changed from OFF to ON
 then
-    	if(Motion_Sensor_Bedroom2.state == CLOSED) {
-    		sendCommand(ActivityBedroom2,ON)
+    	if(Motion_Sensor_Bedroom2.state == OPEN) {
+    		sendCommand(ActivityBedroom2,OPEN)
     	}
-    	else if (Door_Sensor_Bedroom2.state == CLOSED) {
-    		sendCommand(ActivityBedroom2,ON)
+    	else if (Door_Sensor_Bedroom2.state == OPEN) {
+    		sendCommand(ActivityBedroom2,OPEN)
     	}
-    	else if (CPressure_Arduino_Bedroom2.state == CLOSED) {
-    		sendCommand(ActivityBedroom2,ON)
+    	else if (CPressure_Arduino_Bedroom2.state == OPEN) {
+    		sendCommand(ActivityBedroom2,OPEN)
     	}
-    	else if (CLedDoor_Arduino_Bedroom2.state == CLOSED) {
-    		sendCommand(ActivityBedroom2,ON)
+    	else if (CLedDoor_Arduino_Bedroom2.state == OPEN) {
+    		sendCommand(ActivityBedroom2,OPEN)
     	}  
     	else {
-    		sendCommand(ActivityBedroom2,OFF)
+    		sendCommand(ActivityBedroom2,CLOSED)
     	}  
     	
         sendCommand(flag_bedroom2,OFF)
@@ -120,14 +120,14 @@ rule "Hallway Flag activity"
 when
         Item flag_hallway changed from OFF to ON
 then
-    	if(Motion_Sensor_Hallway.state == CLOSED) {
-    		sendCommand(ActivityHallway,ON)
+    	if(Motion_Sensor_Hallway.state == OPEN) {
+    		sendCommand(ActivityHallway,OPEN)
     	}
-    	else if (CPressure_Arduino_Hallway.state == CLOSED) {
-    		sendCommand(ActivityHallway,ON)
+    	else if (CPressure_Arduino_Hallway.state == OPEN) {
+    		sendCommand(ActivityHallway,OPEN)
     	}
     	else {
-    		sendCommand(ActivityHallway,OFF)
+    		sendCommand(ActivityHallway,CLOSED)
     	}  
     	
         sendCommand(flag_hallway,OFF)
@@ -138,20 +138,20 @@ rule "Bedroom 2 Flag activity"
 when
         Item flag_bathroom changed from OFF to ON
 then
-    	if(Motion_Sensor_Bathroom.state == CLOSED) {
-    		sendCommand(ActivityBathroom,ON)
+    	if(Motion_Sensor_Bathroom.state == OPEN) {
+    		sendCommand(ActivityBathroom,OPEN)
     	}
-    	else if (Door_Sensor_Bathroom.state == CLOSED) {
-    		sendCommand(ActivityBathroom,ON)
+    	else if (Door_Sensor_Bathroom.state == OPEN) {
+    		sendCommand(ActivityBathroom,OPEN)
     	}
-    	else if (CPressure_Arduino_Bathroom.state == CLOSED) {
-    		sendCommand(ActivityBathroom,ON)
+    	else if (CPressure_Arduino_Bathroom.state == OPEN) {
+    		sendCommand(ActivityBathroom,OPEN)
     	}
-    	else if (CLedDoor_Arduino_Bathroom.state == CLOSED) {
-    		sendCommand(ActivityBathroom,ON)
+    	else if (CLedDoor_Arduino_Bathroom.state == OPEN) {
+    		sendCommand(ActivityBathroom,OPEN)
     	}  
     	else {
-    		sendCommand(ActivityBathroom,OFF)
+    		sendCommand(ActivityBathroom,CLOSED)
     	}  
     	
         sendCommand(flag_bathroom,OFF)
@@ -162,11 +162,11 @@ rule "Kitchen Flag activity"
 when
         Item flag_kitchen changed from OFF to ON
 then
-    	if (Door_Sensor_Kitchen_Ref.state == CLOSED) {
-    		sendCommand(ActivityKitchen,ON)
+    	if (Door_Sensor_Kitchen_Ref.state == OPEN) {
+    		sendCommand(ActivityKitchen,OPEN)
     		}  
     	else {
-    		sendCommand(ActivityKitchen,OFF)
+    		sendCommand(ActivityKitchen,CLOSED)
     	}  
     	
         sendCommand(flag_kitchen,OFF)
@@ -307,15 +307,12 @@ rule "Bedroom 1 TV Sensor "
 when
         Item STV_Arduino_Bedroom1 received update
 then
-        if(STV_Arduino_Bedroom1.state == "ON"){
-                sendCommand(CTV_Arduino_Bedroom1,ON)
+        if(STV_Arduino_Bedroom1.state.toString.trim.contains("ON"))  {
+                sendCommand(CTV_Arduino_Bedroom1,OPEN)
                 sendCommand(flag_bedroom1,ON)
-        }
+        } 
         else{
-                if(CTV_Arduino_Bedroom1.state == ON){
-                	sendCommand(flag_bedroom1,ON)
-                }
-                sendCommand(CTV_Arduino_Bedroom1,OFF)
+                sendCommand(CTV_Arduino_Bedroom1,CLOSED)
         }
 end
 
@@ -323,15 +320,15 @@ rule "Bedroom 1 Pressure Sensor "
 when
         Item SPressure_Arduino_Bedroom1 received update
 then
-        if(SPressure_Arduino_Bedroom1.state == "ON"){
-                sendCommand(CPressure_Arduino_Bedroom1,ON)
+        if(SPressure_Arduino_Bedroom1.state.toString.trim.contains("ON")){
+                sendCommand(CPressure_Arduino_Bedroom1,OPEN)
                 sendCommand(flag_bedroom1,ON)
         }
         else{
                 if(CPressure_Arduino_Bedroom1.state == ON){
                 	sendCommand(flag_bedroom1,ON)
                 }
-                sendCommand(CPressure_Arduino_Bedroom1,OFF)
+                sendCommand(CPressure_Arduino_Bedroom1,CLOSED)
         }
 end
 
@@ -339,34 +336,32 @@ rule "Bedroom 1 Led Door Sensor "
 when
         Item SLedDoor_Arduino_Bedroom1 received update
 then
-        if(SLedDoor_Arduino_Bedroom1.state == "ON"){
-                sendCommand(CLedDoor_Arduino_Bedroom1,ON)
+        if(SLedDoor_Arduino_Bedroom1.state.toString.trim.contains("ON")){
+                sendCommand(CLedDoor_Arduino_Bedroom1,OPEN)
                 sendCommand(flag_bedroom1,ON)
         }
         else{
                 if(CLedDoor_Arduino_Bedroom1.state == ON){
                 	sendCommand(flag_bedroom1,ON)
                 }
-                sendCommand(CLedDoor_Arduino_Bedroom1,OFF)
+                sendCommand(CLedDoor_Arduino_Bedroom1,CLOSED)
         }
 end
 
 /** Bedroom 2 */
-
-
 rule "Bedroom 2 Pressure Sensor "
 when
         Item SPressure_Arduino_Bedroom2 received update
 then
-        if(SPressure_Arduino_Bedroom2.state == "ON"){
-                sendCommand(CPressure_Arduino_Bedroom2,ON)
+        if(SPressure_Arduino_Bedroom2.state.toString.trim.contains("ON")){
+                sendCommand(CPressure_Arduino_Bedroom2,OPEN)
                 sendCommand(flag_bedroom2,ON)
         }
         else{
                 if(CPressure_Arduino_Bedroom2.state == ON){
                 	sendCommand(flag_bedroom2,ON)
                 }
-                sendCommand(CPressure_Arduino_Bedroom2,OFF)
+                sendCommand(CPressure_Arduino_Bedroom2,CLOSED)
         }
 end
 
@@ -374,15 +369,15 @@ rule "Bedroom 2 Led Door Sensor "
 when
         Item SLedDoor_Arduino_Bedroom2 received update
 then
-        if(SLedDoor_Arduino_Bedroom2.state == "ON"){
-                sendCommand(CLedDoor_Arduino_Bedroom2,ON)
+        if(SLedDoor_Arduino_Bedroom2.state.toString.trim.contains("ON")){
+                sendCommand(CLedDoor_Arduino_Bedroom2,OPEN)
                 sendCommand(flag_bedroom2,ON)
         }
         else{
                 if(CLedDoor_Arduino_Bedroom2.state == ON){
                 	sendCommand(flag_bedroom2,ON)
                 }
-                sendCommand(CLedDoor_Arduino_Bedroom2,OFF)
+                sendCommand(CLedDoor_Arduino_Bedroom2,CLOSED)
         }
 end
 
@@ -391,15 +386,15 @@ rule "Hallway Pressure Sensor "
 when
         Item SPressure_Arduino_Hallway received update
 then
-        if(SPressure_Arduino_Hallway.state == "ON"){
-                sendCommand(CPressure_Arduino_Hallway,ON)
+        if(SPressure_Arduino_Hallway.state.toString.trim.contains("ON"){
+                sendCommand(CPressure_Arduino_Hallway,OPEN)
                 sendCommand(flag_hallway,ON)
         }
         else{
                 if(CPressure_Arduino_Hallway.state == ON){
                 	sendCommand(flag_hallway,ON)
                 }
-                sendCommand(CPressure_Arduino_Hallway,OFF)
+                sendCommand(CPressure_Arduino_Hallway,CLOSED)
         }
 end
 
@@ -408,15 +403,15 @@ rule "Bathroom Pressure Sensor "
 when
         Item SPressure_Arduino_Bathroom received update
 then
-        if(SPressure_Arduino_Bathroom.state == "ON"){
-                sendCommand(CPressure_Arduino_Bathroom,ON)
+        if(SPressure_Arduino_Bathroom.state.toString.trim.contains("ON")){
+                sendCommand(CPressure_Arduino_Bathroom,OPEN)
                 sendCommand(flag_bathroom,ON)
         }
         else{
                 if(CPressure_Arduino_Bathroom.state == ON){
                 	sendCommand(flag_bathroom,ON)
                 }
-                sendCommand(CPressure_Arduino_Bathroom,OFF)
+                sendCommand(CPressure_Arduino_Bathroom,CLOSED)
         }
 end
 
@@ -424,14 +419,14 @@ rule "Bathroom Led Door Sensor "
 when
         Item SLedDoor_Arduino_Bathroom received update
 then
-        if(SLedDoor_Arduino_Bathroom.state == "ON"){
-                sendCommand(CLedDoor_Arduino_Bathroom,ON)
+        if(SLedDoor_Arduino_Bathroom.state.toString.trim.contains("ON")){
+                sendCommand(CLedDoor_Arduino_Bathroom,OPEN)
                 sendCommand(flag_bathroom,ON)
         }
         else{
                 if(CLedDoor_Arduino_Bathroom.state == ON){
                 	sendCommand(flag_bathroom,ON)
                 }
-                sendCommand(CLedDoor_Arduino_Bathroom,OFF)
+                sendCommand(CLedDoor_Arduino_Bathroom,CLOSED)
         }
 end

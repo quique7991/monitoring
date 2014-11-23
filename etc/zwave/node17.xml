@@ -13,7 +13,7 @@
   <listening>true</listening>
   <frequentlyListening>false</frequentlyListening>
   <routing>true</routing>
-  <healState>DONE @ 2014-11-06T23:39:53+0000</healState>
+  <healState>DONE @ 2014-11-23T18:09:59+0000</healState>
   <supportedCommandClasses>
     <entry>
       <commandClass>SWITCH_BINARY</commandClass>
@@ -23,34 +23,12 @@
       </binarySwitchCommandClass>
     </entry>
     <entry>
-      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
-      <manufacturerSpecificCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </manufacturerSpecificCommandClass>
-    </entry>
-    <entry>
       <commandClass>VERSION</commandClass>
       <versionCommandClass>
         <version>1</version>
         <instances>0</instances>
         <libraryType>LIB_UNKNOWN</libraryType>
       </versionCommandClass>
-    </entry>
-    <entry>
-      <commandClass>CONFIGURATION</commandClass>
-      <configurationCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <configParameters/>
-      </configurationCommandClass>
-    </entry>
-    <entry>
-      <commandClass>BASIC</commandClass>
-      <basicCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </basicCommandClass>
     </entry>
     <entry>
       <commandClass>SCENE_ACTIVATION</commandClass>
@@ -66,6 +44,28 @@
         <instances>0</instances>
       </noOperationCommandClass>
     </entry>
+    <entry>
+      <commandClass>BASIC</commandClass>
+      <basicCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </basicCommandClass>
+    </entry>
+    <entry>
+      <commandClass>CONFIGURATION</commandClass>
+      <configurationCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <configParameters/>
+      </configurationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>MANUFACTURER_SPECIFIC</commandClass>
+      <manufacturerSpecificCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </manufacturerSpecificCommandClass>
+    </entry>
   </supportedCommandClasses>
   <nodeNeighbors>
     <int>1</int>
@@ -75,5 +75,5 @@
     <int>20</int>
     <int>21</int>
   </nodeNeighbors>
-  <lastUpdated>2014-11-06 23:39:53.576 UTC</lastUpdated>
+  <lastUpdated>2014-11-23 18:09:59.367 UTC</lastUpdated>
 </node>
