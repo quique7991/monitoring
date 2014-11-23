@@ -23,11 +23,33 @@
       </binarySwitchCommandClass>
     </entry>
     <entry>
+      <commandClass>VERSION</commandClass>
+      <versionCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <libraryType>LIB_UNKNOWN</libraryType>
+      </versionCommandClass>
+    </entry>
+    <entry>
       <commandClass>SCENE_ACTIVATION</commandClass>
       <sceneActivationCommandClass>
         <version>1</version>
         <instances>0</instances>
       </sceneActivationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>NO_OPERATION</commandClass>
+      <noOperationCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </noOperationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>BASIC</commandClass>
+      <basicCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </basicCommandClass>
     </entry>
     <entry>
       <commandClass>CONFIGURATION</commandClass>
@@ -44,28 +66,6 @@
         <instances>0</instances>
       </manufacturerSpecificCommandClass>
     </entry>
-    <entry>
-      <commandClass>BASIC</commandClass>
-      <basicCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </basicCommandClass>
-    </entry>
-    <entry>
-      <commandClass>NO_OPERATION</commandClass>
-      <noOperationCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </noOperationCommandClass>
-    </entry>
-    <entry>
-      <commandClass>VERSION</commandClass>
-      <versionCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <libraryType>LIB_UNKNOWN</libraryType>
-      </versionCommandClass>
-    </entry>
   </supportedCommandClasses>
   <nodeNeighbors>
     <int>1</int>
@@ -76,5 +76,5 @@
     <int>20</int>
     <int>21</int>
   </nodeNeighbors>
-  <lastUpdated>2014-11-22 22:08:02.131 UTC</lastUpdated>
+  <lastUpdated>2014-11-23 18:05:55.213 UTC</lastUpdated>
 </node>

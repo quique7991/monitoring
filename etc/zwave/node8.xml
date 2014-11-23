@@ -13,7 +13,7 @@
   <listening>true</listening>
   <frequentlyListening>false</frequentlyListening>
   <routing>true</routing>
-  <healState>FAILED during UPDATENEIGHBORS @ 2014-11-22T20:37:06+0000</healState>
+  <healState>FAILED during UPDATENEIGHBORS @ 2014-11-23T18:13:08+0000</healState>
   <supportedCommandClasses>
     <entry>
       <commandClass>SWITCH_BINARY</commandClass>
@@ -38,5 +38,5 @@
     </entry>
   </supportedCommandClasses>
   <nodeNeighbors/>
-  <lastUpdated>2014-11-22 20:37:06.49 UTC</lastUpdated>
+  <lastUpdated>2014-11-23 18:13:08.898 UTC</lastUpdated>
 </node>

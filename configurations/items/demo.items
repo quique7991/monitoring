@@ -1,16 +1,16 @@
 Group All
 
 /* Global control */
-Group Lights "Light Control" <light_on>
+Group Lights "Light Control" <light>
 Group:Number:AVG  Temperature	"Avg. Room Temperature [%.1f °C]" 	<temperature>	(Status)
 
 /*  Information about rooms */
-Group Bedroom1		"Bedroom 1"	<bedroom>		(All)
-Group Bedroom2		"Bedroom 2"		<bedroom>	(All)
-Group Hallway		"Hallway"		<corridor>	(All)
-Group Bathroom 		"Bathroom"	<bath>	(All)
-Group Kitchen 		"Kitchen" <kitchen>	(All)
-
+Group Bedroom1		"Bedroom 1"	<bedroom>		(All,Rooms)
+Group Bedroom2		"Bedroom 2"		<bedroom>	(All,Rooms)
+Group Hallway		"Hallway"		<corridor>	(All,Rooms)
+Group Bathroom 		"Bathroom"	<bath>	(All,Rooms)
+Group Kitchen 		"Kitchen" <kitchen>	(All,Rooms)
+Group Rooms 		"Ground Floor"  <groundfloor>
 /* Sensors */
 Group Sensors 	"Sensors" 
 Group Zwave		"Zwave"	(Sensors)
@@ -65,7 +65,7 @@ Switch LBedroom1            "Light Bedroom 1"   <light> (Zwave,Bedroom1,Lights) 
 Number	Temp_Bedroom1	"Bedroom 1 temperature: [%.1f F]"	<temperature> (Zwave,Bedroom1,Temperature)		{ zwave="15:0:command=sensor_multilevel,sensor_type=1" }
 Number	Humid_Sensor_Bedroom1	"Bedroom 1 Relative humidity: [%.0f %%]"	<water>	(Zwave,Bedroom1) { zwave="15:0:command=sensor_multilevel,sensor_type=5" }
 Number	Lumin_Sensor_Bedroom1	"Bedroom 1 Luminance: [%.0f Lux]"	<sun>	(Zwave,Bedroom1)		{ zwave="15:0:command=sensor_multilevel,sensor_type=3" }
-Number	Battery_Sensor_Bedroom1	"Bedroom 1 Sensor Battery: [%d %%]"	<battery> (Zwave,Bedroom1)		{ zwave="15:command=battery" }
+Number	Battery_Sensor_Bedroom1	"Bedroom 1 Sensor Battery: [%d %%]"	<cistern> (Zwave,OPENedroom1)		{ zwave="15:command=battery" }
 Contact	Motion_Sensor_Bedroom1	"Bedroom 1 Motion Sensor [MAP(motion.map):%s]"	(Zwave,Bedroom1,ActivityBR1) { zwave="15:0:command=sensor_binary,respond_to_basic=true" }
 /*** Door Sensor ****/
 Contact	Door_Sensor_Bedroom1	"Door Sensor Bedroom 1 [MAP(motion.map):%s]"	(Zwave,Bedroom1,ActivityBR1) { zwave="14:0:command=sensor_binary,respond_to_basic=true" }
@@ -89,7 +89,7 @@ Switch LBedroom2            "Light Bedroom 2"   <light> (Zwave,Bedroom2,Lights) 
 Number	Temp_Bedroom2	"Bedroom 2 temperature: [%.1f F]"	<temperature> (Zwave,Bedroom2,Temperature)		{ zwave="19:0:command=sensor_multilevel,sensor_type=1" }
 Number	Humid_Sensor_Bedroom2	"Bedroom 2 Relative humidity: [%.0f %%]"	<water>	(Zwave,Bedroom2) { zwave="19:0:command=sensor_multilevel,sensor_type=5" }
 Number	Lumin_Sensor_Bedroom2	"Bedroom 2 Luminance: [%.0f Lux]"	<sun>	(Zwave,Bedroom2)		{ zwave="19:0:command=sensor_multilevel,sensor_type=3" }
-Number	Battery_Sensor_Bedroom2	"Bedroom 2 Sensor Battery: [%d %%]"	<battery> (Zwave,Bedroom2)		{ zwave="19:command=battery" }
+Number	Battery_Sensor_Bedroom2	"Bedroom 2 Sensor Battery: [%d %%]"	<cistern> (Zwave,Bedroom2)		{ zwave="19:command=battery" }
 Contact	Motion_Sensor_Bedroom2	"Bedroom 2 Motion Sensor [MAP(motion.map):%s]"	(Zwave,Bedroom2,ActivityBR2) { zwave="19:0:command=sensor_binary,respond_to_basic=true" }
 /*** Door Sensor ****/
 Contact	Door_Sensor_Bedroom2	"Door Sensor Bedroom 2 [MAP(motion.map):%s]"	(Zwave,Bedroom2,ActivityBR2) { zwave="14:0:command=sensor_binary,respond_to_basic=true" }
@@ -110,7 +110,7 @@ Switch LHallway            "Light Hallway"   <light> (Zwave,Hallway,Lights) {zwa
 Number	Temp_Hallway	"Hallway temperature: [%.1f F]"	<temperature> (Zwave,Hallway,Temperature)		{ zwave="20:0:command=sensor_multilevel,sensor_type=1" }
 Number	Humid_Sensor_Hallway	"Hallway Relative humidity: [%.0f %%]"	<water>	(Zwave,Hallway) { zwave="20:0:command=sensor_multilevel,sensor_type=5" }
 Number	Lumin_Sensor_Hallway	"Hallway Luminance: [%.0f Lux]"	<sun>	(Zwave,Hallway)		{ zwave="20:0:command=sensor_multilevel,sensor_type=3" }
-Number	Battery_Sensor_Hallway	"Hallway Sensor Battery: [%d %%]"	<battery> (Zwave,Hallway)		{ zwave="20:command=battery" }
+Number	Battery_Sensor_Hallway	"Hallway Sensor Battery: [%d %%]"	<cistern> (Zwave,Hallway)		{ zwave="20:command=battery" }
 Contact	Motion_Sensor_Hallway	"Hallway Motion Sensor [MAP(motion.map):%s]"	(Zwave,Hallway,ActivityH) { zwave="20:0:command=sensor_binary,respond_to_basic=true" }
 /**Arduino Sensors **/
 /***Pressure Sensor ***/
@@ -125,7 +125,7 @@ Switch LBathroom            "Light Bathroom"   <light> (Zwave,Bathroom,Lights) {
 Number	Temp_Bathroom	"Bathroom temperature: [%.1f F]"	<temperature> (Zwave,Bathroom,Temperature)		{ zwave="19:0:command=sensor_multilevel,sensor_type=1" }
 Number	Humid_Sensor_Bathroom "Bathroom Relative humidity: [%.0f %%]"	<water>	(Zwave,Bathroom) { zwave="19:0:command=sensor_multilevel,sensor_type=5" }
 Number	Lumin_Sensor_Bathroom	"Bathroom Luminance: [%.0f Lux]"	<sun>	(Zwave,Bathroom)		{ zwave="19:0:command=sensor_multilevel,sensor_type=3" }
-Number	Battery_Sensor_Bathroom	"Bathroom Sensor Battery: [%d %%]"	<battery> (Zwave,Bathroom)		{ zwave="19:command=battery" }
+Number	Battery_Sensor_Bathroom	"Bathroom Sensor Battery: [%d %%]"	<cistern> (Zwave,Bathroom)		{ zwave="19:command=battery" }
 Contact	Motion_Sensor_Bathroom	"Bathroom Motion Sensor [MAP(motion.map):%s]"	(Zwave,Bathroom,ActivityBath) { zwave="19:0:command=sensor_binary,respond_to_basic=true" }
 /*** Door Sensor ****/
 Contact	Door_Sensor_Bathroom "Door Sensor Bathroom [MAP(motion.map):%s]"	(Zwave,Bathroom,ActivityBath) { zwave="14:0:command=sensor_binary,respond_to_basic=true" }

@@ -17,12 +17,85 @@
   <healState>DONE @ 2014-11-06T22:45:57+0000</healState>
   <supportedCommandClasses>
     <entry>
+      <commandClass>SENSOR_BINARY</commandClass>
+      <binarySensorCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </binarySensorCommandClass>
+    </entry>
+    <entry>
+      <commandClass>ASSOCIATION</commandClass>
+      <associationCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <configAssociations>
+          <entry>
+            <int>1</int>
+            <associationGroup>
+              <Index>1</Index>
+              <Nodes>
+                <int>1</int>
+              </Nodes>
+            </associationGroup>
+          </entry>
+        </configAssociations>
+        <maxGroups>1</maxGroups>
+      </associationCommandClass>
+    </entry>
+    <entry>
       <commandClass>BATTERY</commandClass>
       <batteryCommandClass>
         <version>1</version>
         <instances>0</instances>
         <batteryLevel>100</batteryLevel>
       </batteryCommandClass>
+    </entry>
+    <entry>
+      <commandClass>VERSION</commandClass>
+      <versionCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+        <libraryType>LIB_UNKNOWN</libraryType>
+      </versionCommandClass>
+    </entry>
+    <entry>
+      <commandClass>WAKE_UP</commandClass>
+      <WakeUpCommandClass>
+        <version>2</version>
+        <instances>0</instances>
+        <targetNodeId>255</targetNodeId>
+        <interval>0</interval>
+        <minInterval>240</minInterval>
+        <maxInterval>2678400</maxInterval>
+        <defaultInterval>0</defaultInterval>
+        <intervalStep>240</intervalStep>
+      </WakeUpCommandClass>
+    </entry>
+    <entry>
+      <commandClass>NO_OPERATION</commandClass>
+      <noOperationCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </noOperationCommandClass>
+    </entry>
+    <entry>
+      <commandClass>BASIC</commandClass>
+      <basicCommandClass>
+        <version>1</version>
+        <instances>0</instances>
+      </basicCommandClass>
+    </entry>
+    <entry>
+      <commandClass>SENSOR_MULTILEVEL</commandClass>
+      <multiLevelSensorCommandClass>
+        <version>5</version>
+        <instances>0</instances>
+        <sensors>
+          <sensorType>TEMPERATURE</sensorType>
+          <sensorType>LUMINANCE</sensorType>
+          <sensorType>RELATIVE_HUMIDITY</sensorType>
+        </sensors>
+      </multiLevelSensorCommandClass>
     </entry>
     <entry>
       <commandClass>CONFIGURATION</commandClass>
@@ -55,19 +128,19 @@
             </configurationParameter>
           </entry>
           <entry>
-            <int>101</int>
-            <configurationParameter>
-              <index>101</index>
-              <size>4</size>
-              <value>225</value>
-            </configurationParameter>
-          </entry>
-          <entry>
             <int>3</int>
             <configurationParameter>
               <index>3</index>
               <size>2</size>
               <value>240</value>
+            </configurationParameter>
+          </entry>
+          <entry>
+            <int>101</int>
+            <configurationParameter>
+              <index>101</index>
+              <size>4</size>
+              <value>225</value>
             </configurationParameter>
           </entry>
           <entry>
@@ -114,84 +187,11 @@
       </configurationCommandClass>
     </entry>
     <entry>
-      <commandClass>SENSOR_MULTILEVEL</commandClass>
-      <multiLevelSensorCommandClass>
-        <version>5</version>
-        <instances>0</instances>
-        <sensors>
-          <sensorType>LUMINANCE</sensorType>
-          <sensorType>RELATIVE_HUMIDITY</sensorType>
-          <sensorType>TEMPERATURE</sensorType>
-        </sensors>
-      </multiLevelSensorCommandClass>
-    </entry>
-    <entry>
       <commandClass>MANUFACTURER_SPECIFIC</commandClass>
       <manufacturerSpecificCommandClass>
         <version>1</version>
         <instances>0</instances>
       </manufacturerSpecificCommandClass>
-    </entry>
-    <entry>
-      <commandClass>BASIC</commandClass>
-      <basicCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </basicCommandClass>
-    </entry>
-    <entry>
-      <commandClass>NO_OPERATION</commandClass>
-      <noOperationCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </noOperationCommandClass>
-    </entry>
-    <entry>
-      <commandClass>VERSION</commandClass>
-      <versionCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <libraryType>LIB_UNKNOWN</libraryType>
-      </versionCommandClass>
-    </entry>
-    <entry>
-      <commandClass>SENSOR_BINARY</commandClass>
-      <binarySensorCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-      </binarySensorCommandClass>
-    </entry>
-    <entry>
-      <commandClass>ASSOCIATION</commandClass>
-      <associationCommandClass>
-        <version>1</version>
-        <instances>0</instances>
-        <configAssociations>
-          <entry>
-            <int>1</int>
-            <associationGroup>
-              <Index>1</Index>
-              <Nodes>
-                <int>1</int>
-              </Nodes>
-            </associationGroup>
-          </entry>
-        </configAssociations>
-        <maxGroups>1</maxGroups>
-      </associationCommandClass>
-    </entry>
-    <entry>
-      <commandClass>WAKE_UP</commandClass>
-      <WakeUpCommandClass>
-        <version>2</version>
-        <instances>0</instances>
-        <targetNodeId>255</targetNodeId>
-        <interval>0</interval>
-        <minInterval>240</minInterval>
-        <maxInterval>2678400</maxInterval>
-        <defaultInterval>0</defaultInterval>
-        <intervalStep>240</intervalStep>
-      </WakeUpCommandClass>
     </entry>
   </supportedCommandClasses>
   <nodeNeighbors>
@@ -202,5 +202,5 @@
     <int>20</int>
     <int>21</int>
   </nodeNeighbors>
-  <lastUpdated>2014-11-22 22:08:17.928 UTC</lastUpdated>
+  <lastUpdated>2014-11-23 18:06:22.92 UTC</lastUpdated>
 </node>
