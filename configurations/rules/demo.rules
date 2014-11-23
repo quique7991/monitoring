@@ -69,6 +69,7 @@ rule "Bedroom 1 Flag activity"
 when
         Item flag_bedroom1 changed from OFF to ON 
 then
+        println("########################")
     	if(Motion_Sensor_Bedroom1.state == OPEN) {
     		sendCommand(ActivityBedroom1,OPEN)
     	}

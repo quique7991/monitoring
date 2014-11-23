@@ -1,13 +1,13 @@
 sitemap demo label="Main Menu"
 {	
 	Frame { 
-		Group item=Lights label="Lights"
+		Group item=Lights label="Lights" icon="bulb"
 		Group item=Rooms label="Rooms"
 	}
      
-	Frame label="activity"{
+	Frame label="Activity"{
 		Group item=Activity label="Activity detection" icon="present"
-		Group item=GlobalActivity label="Automatic activity" icon="present"
+		//Group item=GlobalActivity label="Automatic activity" icon="present"
     	Text label="Debug" icon="energy"{
 			Text item=ArduinoCoordinator
 			Group item=Arduino label="Arduino"

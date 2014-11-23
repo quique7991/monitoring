@@ -19,7 +19,7 @@ Group Charts	"My Charts" (All)
 Group Slave 	(All)
 
 /* Activity */
-Group:Contact:OR(OPEN, CLOSED) GlobalActivity 	"Activity [(%d)]"				<contact>	
+Group:Contact:OR(OPEN, CLOSED) GlobalActivity 	"Activity [(%d)]"	<siren>	
 Group:Contact:OR(OPEN, CLOSED) ActivityBR1 	"Activity Bedroom 1" <siren>	(GlobalActivity)
 Group:Contact:OR(OPEN, CLOSED) ActivityBR2 	"Activity Bedroom 2" <siren>	(GlobalActivity)
 Group:Contact:OR(OPEN, CLOSED) ActivityBath 	"Activity Bathroom" <siren>	(GlobalActivity)
@@ -30,8 +30,8 @@ Group:Contact:OR(OPEN, CLOSED) ActivityK 	"Activity Kitchen" <siren>	(GlobalActi
 Group Activity "Activity by hand"
 Contact ActivityBedroom1 "Bedroom 1 Activity [MAP(activity.map):%s]" (Activity)
 Contact ActivityBedroom2 "Bedroom 2 Activity [MAP(activity.map):%s]"(Activity)
-Contact ActivityHallway "Bedroom Hallway Activity [MAP(activity.map):%s]"(Activity)
-Contact ActivityBathroom "Bedroom Bathroom Activity [MAP(activity.map):%s]"(Activity)
+Contact ActivityHallway "Hallway Activity [MAP(activity.map):%s]"(Activity)
+Contact ActivityBathroom "Bathroom Activity [MAP(activity.map):%s]"(Activity)
 Contact ActivityKitchen "Kitchen Activity [MAP(activity.map):%s]"(Activity)
 
 
