@@ -22,7 +22,12 @@ then
 	sendCommand(CPressure_Arduino_Hallway,OFF)
 	sendCommand(CLedDoor_Arduino_Bedroom1,OFF)  	  	  	  
 	sendCommand(CLedDoor_Arduino_Bedroom2,OFF)  	  	  	  
-	sendCommand(CLedDoor_Arduino_Bathroom,OFF)  	  	  	  
+	sendCommand(CLedDoor_Arduino_Bathroom,OFF)  	 
+    sendCommand(ActivityBedroom1, CLOSED)
+    sendCommand(ActivityBedroom2, CLOSED)
+    sendCommand(ActivityHallway, CLOSED)
+    sendCommand(ActivityBathroom, CLOSED)
+    sendCommand(ActivityKitchen, CLOSED)	  	  
 end
 
 /* */

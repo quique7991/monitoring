@@ -6,7 +6,7 @@ sitemap demo label="Main Menu"
 	}
      
 	Frame label="Activity"{
-		Group item=Activity label="Activity detection" icon="present"
+		Group item=Activity label="Activity Detection"
 		//Group item=GlobalActivity label="Automatic activity" icon="present"
     	Text label="Debug" icon="energy"{
 			Text item=ArduinoCoordinator

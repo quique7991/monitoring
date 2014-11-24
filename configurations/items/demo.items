@@ -27,12 +27,12 @@ Group:Contact:OR(OPEN, CLOSED) ActivityH 	"Activity Hallway" <siren>	(GlobalActi
 Group:Contact:OR(OPEN, CLOSED) ActivityK 	"Activity Kitchen" <siren>	(GlobalActivity)
 
 /*Activity Variables by hand*/
-Group Activity "Activity by hand"
-Contact ActivityBedroom1 "Bedroom 1 Activity [MAP(activity.map):%s]" (Activity)
-Contact ActivityBedroom2 "Bedroom 2 Activity [MAP(activity.map):%s]"(Activity)
-Contact ActivityHallway "Hallway Activity [MAP(activity.map):%s]"(Activity)
-Contact ActivityBathroom "Bathroom Activity [MAP(activity.map):%s]"(Activity)
-Contact ActivityKitchen "Kitchen Activity [MAP(activity.map):%s]"(Activity)
+Group:Contact:OR(OPEN, CLOSED) Activity "Activity" <present>
+Contact ActivityBedroom1 "Bedroom 1 Activity [MAP(activity.map):%s]" <present> (Activity) 
+Contact ActivityBedroom2 "Bedroom 2 Activity [MAP(activity.map):%s]" <present> (Activity)
+Contact ActivityHallway "Hallway Activity [MAP(activity.map):%s]" <present> (Activity)
+Contact ActivityBathroom "Bathroom Activity [MAP(activity.map):%s]" <present> (Activity)
+Contact ActivityKitchen "Kitchen Activity [MAP(activity.map):%s]" <present> (Activity)
 
 
 /* Flags */
