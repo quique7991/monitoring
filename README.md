@@ -19,9 +19,9 @@ An intergration of commercial and handmade sensros that are non-intrusive. The p
 by quique7991-ramyadhadidi
 Fall 2014
 
-You can load the interface with:
-  http://localhost:8080/greent/
-  http://localhost:8080/openhab.app?sitemap=demo
-And HABmin:
-  http://localhost:8080/habmin/index.html
+  - You can load the interface with:
+    - http://localhost:8080/greent/
+    - http://localhost:8080/openhab.app?sitemap=demo
+  - And HABmin:
+    - http://localhost:8080/habmin/index.html
 *If needed replace localhost with you openHAB IP.
