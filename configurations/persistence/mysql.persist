@@ -5,5 +5,5 @@ Strategies {
     default = everyChange,everyUpdate
 }
 Items {
-    ArduinoButton : strategy = everyChange,everyUpdate,everyMinute,restoreOnStartup
+    Motion_Sensor_Bedroom1,Door_Sensor_Bedroom1,CTV_Arduino_Bedroom1,CPressure_Arduino_Bedroom1,CPressure_Arduino_Bedroom1,Motion_Sensor_Bedroom2,Door_Sensor_Bedroom2,CPressure_Arduino_Bedroom2,CLedDoor_Arduino_Bedroom2,Motion_Sensor_Hallway,CPressure_Arduino_Hallway,Motion_Sensor_Bathroom,Door_Sensor_Bathroom,CPressure_Arduino_Bathroom,CLedDoor_Arduino_Bathroom,Door_Sensor_Kitchen_Ref,Activity,ActivityBedroom1,ActivityBedroom2,ActivityHallway,ActivityBathroom,ActivityKitchen: strategy = everyChange,everyUpdate,everyMinute,restoreOnStartup
 }

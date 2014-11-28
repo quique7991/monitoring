@@ -15,11 +15,38 @@ sitemap demo label="Main Menu"
 		}
 	}	
 
-	Frame label="Charts" {	
-		Text label="Prueba" icon="pie"{
-			Frame{
-				Chart item=ArduinoCoordinator period=h refresh=600
+	Frame label="Charts" {
+		Text label="Activity" icon="pie"{
+			Text label="Global Activity" icon="pie"{
+				Frame{
+					Chart item=Activity period=h refresh=600
+				}
 			}
+			Text label="Activity in Bedroom 1" icon="pie"{
+				Frame{
+					Chart item=ActivityBedroom1 period=h refresh=600
+				}
+			}
+			Text label="Activity in Bedroom 2" icon="pie"{
+				Frame{
+					Chart item=ActivityBedroom2 period=h refresh=600
+				}
+			}
+			Text label="Activity in Hallway" icon="pie"{
+				Frame{
+					Chart item=ActivityHallway period=h refresh=600
+				}
+			}
+			Text label="Activity in Bathroom" icon="pie"{
+				Frame{
+					Chart item=ActivityBathroom period=h refresh=600
+				}
+			}	
+			Text label="Activity in Kitchen" icon="pie"{
+				Frame{
+					Chart item=ActivityKitchen period=h refresh=600
+				}
+			}															
 		}	
 	}
 	

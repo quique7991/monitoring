@@ -119,3 +119,2600 @@
 2014-11-23 23:13:56 - Weather_Temp_Min state updated to 11
 2014-11-23 23:13:56 - Weather_Temperature state updated to 16
 2014-11-23 23:13:56 - Weather_LastUpdate state updated to 2014-11-23T23:13:56
+2014-11-28 16:22:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:21 - flag_hallway received command OFF
+2014-11-28 16:22:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:22 - flag_bedroom1 received command OFF
+2014-11-28 16:22:22 - flag_bedroom2 received command OFF
+2014-11-28 16:22:22 - flag_bathroom received command OFF
+2014-11-28 16:22:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:22 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:22 - flag_kitchen received command OFF
+2014-11-28 16:22:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:22 - CTV_Arduino_Bedroom1 received command OFF
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom1 received command OFF
+2014-11-28 16:22:22 - CPressure_Arduino_Bedroom2 received command OFF
+2014-11-28 16:22:22 - CPressure_Arduino_Bathroom received command OFF
+2014-11-28 16:22:22 - CPressure_Arduino_Hallway received command OFF
+2014-11-28 16:22:22 - CLedDoor_Arduino_Bedroom1 received command OFF
+2014-11-28 16:22:22 - CLedDoor_Arduino_Bedroom2 received command OFF
+2014-11-28 16:22:22 - CLedDoor_Arduino_Bathroom received command OFF
+2014-11-28 16:22:22 - ActivityBedroom1 received command CLOSED
+2014-11-28 16:22:22 - ActivityBedroom2 received command CLOSED
+2014-11-28 16:22:22 - ActivityHallway received command CLOSED
+2014-11-28 16:22:22 - ActivityBathroom received command CLOSED
+2014-11-28 16:22:23 - ActivityKitchen received command CLOSED
+2014-11-28 16:22:23 - Weather_Temp_Max state updated to 16
+2014-11-28 16:22:23 - Weather_LastUpdate state updated to 2014-11-28T16:22:23
+2014-11-28 16:22:23 - Weather_Temp_Min state updated to 16
+2014-11-28 16:22:23 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:23 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:23 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:23 - Date state updated to 2014-11-28T16:22:23
+2014-11-28 16:22:23 - Weather_Temperature state updated to 10
+2014-11-28 16:22:23 - Weather_LastUpdate state updated to 2014-11-28T16:22:23
+2014-11-28 16:22:23 - Weather_Temp_Max state updated to 10
+2014-11-28 16:22:23 - Weather_Temp_Min state updated to 10
+2014-11-28 16:22:24 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:24 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:24 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:25 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:26 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:26 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:26 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:28 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:28 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:28 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:30 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:30 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:30 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:31 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:31 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:41 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:41 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:41 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:44 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:44 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:55 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:55 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:55 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:22:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:22:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:22:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:00 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:23:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:23:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:12 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:12 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:12 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:24 - Weather_Temperature state updated to 10
+2014-11-28 16:23:24 - Weather_LastUpdate state updated to 2014-11-28T16:23:24
+2014-11-28 16:23:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:42 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:23:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:23:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:44 - LBedroom1 received command ON
+2014-11-28 16:23:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:46 - LBedroom1 received command OFF
+2014-11-28 16:23:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:49 - LBedroom2 received command ON
+2014-11-28 16:23:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:52 - LBedroom2 received command OFF
+2014-11-28 16:23:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:54 - LHallway received command ON
+2014-11-28 16:23:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:57 - LHallway received command OFF
+2014-11-28 16:23:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:23:58 - LBathroom received command ON
+2014-11-28 16:23:59 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:23:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:23:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:01 - LBathroom received command OFF
+2014-11-28 16:24:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:12 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:12 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:12 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:14 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+2~OFF
+2~OFF
+
+2014-11-28 16:24:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:24:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:24:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:24:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:24:24 - Weather_Temperature state updated to 10
+2014-11-28 16:24:24 - Weather_LastUpdate state updated to 2014-11-28T16:24:24
+2014-11-28 16:25:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:43 - Date state updated to 2014-11-28T16:25:43
+2014-11-28 16:25:43 - Weather_Temperature state updated to 10
+2014-11-28 16:25:44 - flag_hallway received command OFF
+2014-11-28 16:25:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:44 - flag_bedroom1 received command OFF
+2014-11-28 16:25:44 - flag_bedroom2 received command OFF
+2014-11-28 16:25:45 - flag_bathroom received command OFF
+2014-11-28 16:25:45 - flag_kitchen received command OFF
+2014-11-28 16:25:45 - CTV_Arduino_Bedroom1 received command OFF
+2014-11-28 16:25:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:45 - CPressure_Arduino_Bedroom1 received command OFF
+2014-11-28 16:25:45 - LBedroom1 state updated to OFF
+2014-11-28 16:25:45 - Motion_Sensor_Bedroom1 state updated to OPEN
+2014-11-28 16:25:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:45 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:25:45 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:25:45 - CPressure_Arduino_Bedroom2 received command OFF
+2014-11-28 16:25:45 - Lumin_Sensor_Bathroom state updated to 142
+2014-11-28 16:25:45 - Lumin_Sensor_Bedroom2 state updated to 142
+2014-11-28 16:25:45 - flag_bedroom1 received command ON
+2014-11-28 16:25:45 - CPressure_Arduino_Bathroom received command OFF
+2014-11-28 16:25:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:46 - ActivityBedroom1 received command OPEN
+2014-11-28 16:25:46 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:25:46 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:25:46 - CPressure_Arduino_Hallway received command OFF
+2014-11-28 16:25:46 - Temp_Bedroom2 state updated to 68.4
+2014-11-28 16:25:46 - flag_bedroom1 received command OFF
+2014-11-28 16:25:46 - Temp_Bathroom state updated to 68.4
+2014-11-28 16:25:46 - Motion_Sensor_Bathroom state updated to OPEN
+2014-11-28 16:25:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:46 - Motion_Sensor_Bedroom2 state updated to OPEN
+2014-11-28 16:25:46 - CLedDoor_Arduino_Bedroom1 received command OFF
+2014-11-28 16:25:46 - CLedDoor_Arduino_Bedroom2 received command OFF
+2014-11-28 16:25:46 - flag_bedroom2 received command ON
+2014-11-28 16:25:46 - flag_bathroom received command ON
+2014-11-28 16:25:46 - CLedDoor_Arduino_Bathroom received command OFF
+2014-11-28 16:25:46 - ActivityBedroom2 received command OPEN
+2014-11-28 16:25:46 - ActivityBathroom received command OPEN
+2014-11-28 16:25:46 - flag_bedroom2 received command OFF
+2014-11-28 16:25:46 - ActivityBedroom1 received command CLOSED
+2014-11-28 16:25:46 - flag_bathroom received command OFF
+2014-11-28 16:25:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:46 - ActivityBedroom2 received command CLOSED
+2014-11-28 16:25:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:46 - ActivityHallway received command CLOSED
+2014-11-28 16:25:46 - ActivityBathroom received command CLOSED
+2014-11-28 16:25:46 - ActivityKitchen received command CLOSED
+2014-11-28 16:25:46 - Weather_Temp_Max state updated to 10
+2014-11-28 16:25:46 - Weather_Temp_Min state updated to 10
+2014-11-28 16:25:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:25:47 - Lumin_Sensor_Bedroom1 state updated to 209
+2014-11-28 16:25:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:47 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:25:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:47 - LBathroom state updated to OFF
+2014-11-28 16:25:47 - LBedroom2 state updated to OFF
+2014-11-28 16:25:47 - Motion_Sensor_Hallway state updated to CLOSED
+2014-11-28 16:25:48 - LHallway received command OFF
+2014-11-28 16:25:48 - flag_hallway received command ON
+2014-11-28 16:25:48 - ActivityHallway received command CLOSED
+2014-11-28 16:25:48 - flag_hallway received command OFF
+2014-11-28 16:25:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:25:48 - Lumin_Sensor_Hallway state updated to 122
+2014-11-28 16:25:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:25:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:25:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:25:48 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:25:48 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:25:48 - Lumin_Sensor_Bathroom state updated to 145
+2014-11-28 16:25:48 - Lumin_Sensor_Bedroom2 state updated to 145
+2014-11-28 16:25:48 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:25:48 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:25:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:48 - Temp_Bedroom2 state updated to 0.0000201
+2014-11-28 16:25:48 - Temp_Bathroom state updated to 0.0000201
+2014-11-28 16:25:48 - LHallway state updated to OFF
+2014-11-28 16:25:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:55 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:55 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:55 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:55 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:25:55 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:25:55 - Lumin_Sensor_Bathroom state updated to 146
+2014-11-28 16:25:55 - Lumin_Sensor_Bedroom2 state updated to 146
+2014-11-28 16:25:55 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:25:55 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:25:55 - Temp_Bedroom2 state updated to 68
+2014-11-28 16:25:55 - Temp_Bathroom state updated to 68
+2014-11-28 16:25:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:25:57 - Lumin_Sensor_Bedroom1 state updated to 232
+2014-11-28 16:25:57 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:25:57 - Temp_Bedroom1 state updated to 64.6
+2014-11-28 16:25:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:25:58 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:25:58 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:25:58 - Temp_Hallway state updated to 66.7
+2014-11-28 16:25:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:25:59 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:25:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:25:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:05 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:05 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:05 - Lumin_Sensor_Bathroom state updated to 146
+2014-11-28 16:26:05 - Lumin_Sensor_Bedroom2 state updated to 146
+2014-11-28 16:26:05 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:05 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:05 - Temp_Bedroom2 state updated to 68.3
+2014-11-28 16:26:05 - Temp_Bathroom state updated to 68.3
+2014-11-28 16:26:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:07 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:07 - Lumin_Sensor_Bedroom1 state updated to 233
+2014-11-28 16:26:07 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:07 - Temp_Bedroom1 state updated to 64.8
+2014-11-28 16:26:08 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:08 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:26:08 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:08 - Temp_Hallway state updated to 66.7
+2014-11-28 16:26:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:10 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:10 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:14 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:15 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:15 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:15 - Lumin_Sensor_Bathroom state updated to 147
+2014-11-28 16:26:15 - Lumin_Sensor_Bedroom2 state updated to 147
+2014-11-28 16:26:15 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:15 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:15 - Temp_Bedroom2 state updated to 68.1
+2014-11-28 16:26:15 - Temp_Bathroom state updated to 68.1
+2014-11-28 16:26:17 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:17 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:17 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:17 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:17 - Lumin_Sensor_Bedroom1 state updated to 234
+2014-11-28 16:26:17 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:17 - Temp_Bedroom1 state updated to 64.8
+2014-11-28 16:26:18 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:18 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:26:18 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:18 - Temp_Hallway state updated to 66.8
+2014-11-28 16:26:18 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:26:18 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:26:18 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:19 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:19 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:25 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:25 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:25 - Lumin_Sensor_Bathroom state updated to 139
+2014-11-28 16:26:25 - Lumin_Sensor_Bedroom2 state updated to 139
+2014-11-28 16:26:25 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:26:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:26:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:25 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:25 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:25 - Temp_Bedroom2 state updated to 68.2
+2014-11-28 16:26:25 - Temp_Bathroom state updated to 68.2
+2014-11-28 16:26:26 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:26 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:26 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:27 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:27 - Lumin_Sensor_Bedroom1 state updated to 233
+2014-11-28 16:26:27 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:27 - Temp_Bedroom1 state updated to 64.6
+2014-11-28 16:26:28 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:28 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:26:28 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:28 - Temp_Hallway state updated to 66.8
+2014-11-28 16:26:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:30 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:30 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:30 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:31 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:31 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:35 - LBedroom1 received command ON
+2014-11-28 16:26:35 - LBedroom1 state updated to ON
+2014-11-28 16:26:35 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:35 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:35 - Lumin_Sensor_Bathroom state updated to 164
+2014-11-28 16:26:35 - Lumin_Sensor_Bedroom2 state updated to 164
+2014-11-28 16:26:35 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:35 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:35 - Temp_Bedroom2 state updated to 68.3
+2014-11-28 16:26:35 - Temp_Bathroom state updated to 68.3
+2014-11-28 16:26:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:36 - LBedroom1 received command OFF
+2014-11-28 16:26:36 - LBedroom1 state updated to OFF
+2014-11-28 16:26:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:37 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:37 - Lumin_Sensor_Bedroom1 state updated to 232
+2014-11-28 16:26:37 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:37 - Temp_Bedroom1 state updated to 64.6
+2014-11-28 16:26:38 - LBedroom2 received command ON
+2014-11-28 16:26:38 - LBedroom2 state updated to ON
+2014-11-28 16:26:38 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:38 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:26:38 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:38 - Temp_Hallway state updated to 66.8
+2014-11-28 16:26:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:39 - LBedroom2 received command OFF
+2014-11-28 16:26:39 - LBedroom2 state updated to OFF
+2014-11-28 16:26:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:41 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:41 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:41 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:43 - Weather_Temperature state updated to 10
+2014-11-28 16:26:43 - Weather_LastUpdate state updated to 2014-11-28T16:26:43
+2014-11-28 16:26:45 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:26:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:26:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:45 - LBedroom2 state updated to ON
+2014-11-28 16:26:45 - LBedroom2 received command ON
+2014-11-28 16:26:45 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:45 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:45 - Lumin_Sensor_Bathroom state updated to 164
+2014-11-28 16:26:45 - Lumin_Sensor_Bedroom2 state updated to 164
+2014-11-28 16:26:45 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:45 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:45 - Temp_Bedroom2 state updated to 68.1
+2014-11-28 16:26:45 - Temp_Bathroom state updated to 68.1
+2014-11-28 16:26:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:46 - LBedroom2 received command OFF
+2014-11-28 16:26:46 - LBedroom2 state updated to OFF
+2014-11-28 16:26:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:47 - Lumin_Sensor_Bedroom1 state updated to 233
+2014-11-28 16:26:47 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:47 - Temp_Bedroom1 state updated to 64.7
+2014-11-28 16:26:48 - LHallway received command ON
+2014-11-28 16:26:48 - LHallway state updated to ON
+2014-11-28 16:26:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:48 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:26:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:48 - Temp_Hallway state updated to 66.9
+2014-11-28 16:26:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:48 - LHallway received command OFF
+2014-11-28 16:26:48 - LHallway state updated to OFF
+2014-11-28 16:26:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:55 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:55 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:55 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:55 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:26:55 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:26:55 - Lumin_Sensor_Bathroom state updated to 151
+2014-11-28 16:26:55 - Lumin_Sensor_Bedroom2 state updated to 151
+2014-11-28 16:26:55 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:26:55 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:26:55 - Temp_Bedroom2 state updated to 68.1
+2014-11-28 16:26:55 - Temp_Bathroom state updated to 68.1
+2014-11-28 16:26:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:26:57 - Lumin_Sensor_Bedroom1 state updated to 233
+2014-11-28 16:26:57 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:26:57 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:26:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:26:58 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:26:58 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:26:58 - Temp_Hallway state updated to 66.9
+2014-11-28 16:26:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:26:59 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:26:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:26:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:00 - LBedroom1 received command ON
+2014-11-28 16:27:00 - LBedroom1 state updated to ON
+2014-11-28 16:27:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:03 - LBedroom1 received command OFF
+2014-11-28 16:27:03 - LBedroom1 state updated to OFF
+2014-11-28 16:27:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:05 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:05 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:05 - Lumin_Sensor_Bathroom state updated to 151
+2014-11-28 16:27:05 - Lumin_Sensor_Bedroom2 state updated to 151
+2014-11-28 16:27:05 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:05 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:05 - Temp_Bedroom2 state updated to 68.2
+2014-11-28 16:27:05 - Temp_Bathroom state updated to 68.2
+2014-11-28 16:27:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:07 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:07 - Lumin_Sensor_Bedroom1 state updated to 233
+2014-11-28 16:27:07 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:07 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:27:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:08 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:08 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:27:08 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:08 - Temp_Hallway state updated to 66.9
+2014-11-28 16:27:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:10 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:15 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:15 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:15 - Lumin_Sensor_Bathroom state updated to 151
+2014-11-28 16:27:15 - Lumin_Sensor_Bedroom2 state updated to 151
+2014-11-28 16:27:15 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:15 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:15 - Temp_Bedroom2 state updated to 68.2
+2014-11-28 16:27:15 - Temp_Bathroom state updated to 68.2
+2014-11-28 16:27:16 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:16 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:16 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:17 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:17 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:17 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:17 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:17 - Lumin_Sensor_Bedroom1 state updated to 235
+2014-11-28 16:27:17 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:17 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:27:18 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:18 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:27:18 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:18 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:18 - Temp_Hallway state updated to 66.9
+2014-11-28 16:27:18 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:18 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:19 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:19 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:19 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:20 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:20 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:20 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:21 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:21 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:22 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:25 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:27:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:27:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:25 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:25 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:25 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:25 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:27:25 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:27:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:25 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:25 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:25 - Temp_Bedroom2 state updated to 68.6
+2014-11-28 16:27:25 - Temp_Bathroom state updated to 68.6
+2014-11-28 16:27:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:27 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:27 - Lumin_Sensor_Bedroom1 state updated to 235
+2014-11-28 16:27:27 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:27 - Temp_Bedroom1 state updated to 64.8
+2014-11-28 16:27:28 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:28 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:27:28 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:28 - Temp_Hallway state updated to 66.9
+2014-11-28 16:27:28 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:28 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:28 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:30 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:30 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:30 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:31 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:31 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:35 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:35 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:35 - Lumin_Sensor_Bathroom state updated to 152
+2014-11-28 16:27:35 - Lumin_Sensor_Bedroom2 state updated to 152
+2014-11-28 16:27:35 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:35 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:35 - Temp_Bedroom2 state updated to 68.3
+2014-11-28 16:27:35 - Temp_Bathroom state updated to 68.3
+2014-11-28 16:27:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:37 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:37 - Lumin_Sensor_Bedroom1 state updated to 236
+2014-11-28 16:27:37 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:37 - Temp_Bedroom1 state updated to 64.8
+2014-11-28 16:27:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:38 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:38 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:27:38 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:38 - Temp_Hallway state updated to 67
+2014-11-28 16:27:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:41 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:41 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:41 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:43 - Weather_Temperature state updated to 10
+2014-11-28 16:27:43 - Weather_LastUpdate state updated to 2014-11-28T16:27:43
+2014-11-28 16:27:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:44 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:44 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:45 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:45 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:45 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:27:45 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:27:45 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:45 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:45 - Temp_Bedroom2 state updated to 68.7
+2014-11-28 16:27:45 - Temp_Bathroom state updated to 68.7
+2014-11-28 16:27:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:47 - Lumin_Sensor_Bedroom1 state updated to 238
+2014-11-28 16:27:47 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:47 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:27:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:48 - Lumin_Sensor_Hallway state updated to 120
+2014-11-28 16:27:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:48 - Temp_Hallway state updated to 67.1
+2014-11-28 16:27:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:55 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:55 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:55 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:55 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:27:55 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:27:55 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:27:55 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:27:55 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:27:55 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:27:55 - Temp_Bedroom2 state updated to 68.7
+2014-11-28 16:27:55 - Temp_Bathroom state updated to 68.7
+2014-11-28 16:27:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:27:57 - Lumin_Sensor_Bedroom1 state updated to 239
+2014-11-28 16:27:57 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:27:57 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:27:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:27:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:27:58 - Lumin_Sensor_Hallway state updated to 120
+2014-11-28 16:27:58 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:27:58 - Temp_Hallway state updated to 67.1
+2014-11-28 16:27:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:27:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:27:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:05 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:05 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:05 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:28:05 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:28:05 - Humid_Sensor_Bedroom2 state updated to 29
+2014-11-28 16:28:05 - Humid_Sensor_Bathroom state updated to 29
+2014-11-28 16:28:05 - Temp_Bedroom2 state updated to 69
+2014-11-28 16:28:05 - Temp_Bathroom state updated to 69
+2014-11-28 16:28:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:07 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:07 - Lumin_Sensor_Bedroom1 state updated to 239
+2014-11-28 16:28:07 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:07 - Temp_Bedroom1 state updated to 65
+2014-11-28 16:28:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:08 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:08 - Lumin_Sensor_Hallway state updated to 121
+2014-11-28 16:28:08 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:08 - Temp_Hallway state updated to 67.1
+2014-11-28 16:28:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:10 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:12 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:12 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:12 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:15 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:15 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:15 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:28:15 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:28:15 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:28:15 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:28:15 - Temp_Bedroom2 state updated to 68.5
+2014-11-28 16:28:15 - Temp_Bathroom state updated to 68.5
+2014-11-28 16:28:16 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:16 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:16 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:17 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:17 - Lumin_Sensor_Bedroom1 state updated to 244
+2014-11-28 16:28:17 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:17 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:17 - Temp_Bedroom1 state updated to 65.1
+2014-11-28 16:28:17 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:17 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:18 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:18 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:28:18 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:18 - Temp_Hallway state updated to 67.1
+2014-11-28 16:28:18 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:18 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:18 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:19 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:19 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:19 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:21 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:21 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:22 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:23 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:23 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:23 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:24 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:24 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:24 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:25 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:25 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:25 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:25 - Lumin_Sensor_Bathroom state updated to 153
+2014-11-28 16:28:25 - Lumin_Sensor_Bedroom2 state updated to 153
+2014-11-28 16:28:25 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:28:25 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:28:25 - Temp_Bedroom2 state updated to 68.5
+2014-11-28 16:28:25 - Temp_Bathroom state updated to 68.5
+2014-11-28 16:28:26 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:26 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:26 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:27 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:27 - Lumin_Sensor_Bedroom1 state updated to 240
+2014-11-28 16:28:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:27 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:27 - Temp_Bedroom1 state updated to 65
+2014-11-28 16:28:28 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:28 - Lumin_Sensor_Hallway state updated to 122
+2014-11-28 16:28:28 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:28 - Temp_Hallway state updated to 67.1
+2014-11-28 16:28:28 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:28 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:28 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:30 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:30 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:35 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:35 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:35 - Lumin_Sensor_Bathroom state updated to 154
+2014-11-28 16:28:35 - Lumin_Sensor_Bedroom2 state updated to 154
+2014-11-28 16:28:36 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:28:36 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:28:36 - Temp_Bedroom2 state updated to 69.2
+2014-11-28 16:28:36 - Temp_Bathroom state updated to 69.2
+2014-11-28 16:28:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:37 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:37 - Lumin_Sensor_Bedroom1 state updated to 244
+2014-11-28 16:28:37 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:37 - Temp_Bedroom1 state updated to 65
+2014-11-28 16:28:38 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:38 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:28:38 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:38 - Temp_Hallway state updated to 67.2
+2014-11-28 16:28:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:44 - Weather_Temperature state updated to 10
+2014-11-28 16:28:44 - Weather_LastUpdate state updated to 2014-11-28T16:28:44
+2014-11-28 16:28:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:44 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:44 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:45 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:45 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:45 - Lumin_Sensor_Bathroom state updated to 154
+2014-11-28 16:28:45 - Lumin_Sensor_Bedroom2 state updated to 154
+2014-11-28 16:28:45 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:28:45 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:28:45 - Temp_Bedroom2 state updated to 68.9
+2014-11-28 16:28:45 - Temp_Bathroom state updated to 68.9
+2014-11-28 16:28:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:47 - Lumin_Sensor_Bedroom1 state updated to 246
+2014-11-28 16:28:47 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:47 - Temp_Bedroom1 state updated to 64.9
+2014-11-28 16:28:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:48 - Lumin_Sensor_Hallway state updated to 122
+2014-11-28 16:28:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:48 - Temp_Hallway state updated to 67.3
+2014-11-28 16:28:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:55 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:55 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:55 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:55 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:28:55 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:28:56 - Lumin_Sensor_Bathroom state updated to 155
+2014-11-28 16:28:56 - Lumin_Sensor_Bedroom2 state updated to 155
+2014-11-28 16:28:56 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:28:56 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:28:56 - Temp_Bedroom2 state updated to 68.7
+2014-11-28 16:28:56 - Temp_Bathroom state updated to 68.7
+2014-11-28 16:28:56 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:28:57 - Lumin_Sensor_Bedroom1 state updated to 249
+2014-11-28 16:28:57 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:28:57 - Temp_Bedroom1 state updated to 65.2
+2014-11-28 16:28:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:28:58 - Lumin_Sensor_Hallway state updated to 122
+2014-11-28 16:28:58 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:28:58 - Temp_Hallway state updated to 67.3
+2014-11-28 16:28:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:28:59 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:28:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:28:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:05 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:05 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:05 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:05 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:06 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:06 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:06 - Temp_Bedroom2 state updated to 68.6
+2014-11-28 16:29:06 - Temp_Bathroom state updated to 68.6
+2014-11-28 16:29:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:07 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:07 - Lumin_Sensor_Bedroom1 state updated to 234
+2014-11-28 16:29:07 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:07 - Temp_Bedroom1 state updated to 65.3
+2014-11-28 16:29:08 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:08 - Lumin_Sensor_Hallway state updated to 124
+2014-11-28 16:29:08 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:08 - Temp_Hallway state updated to 67.3
+2014-11-28 16:29:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:10 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:12 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:12 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:12 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:15 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:15 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:15 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:15 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:15 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:15 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:15 - Temp_Bedroom2 state updated to 68.9
+2014-11-28 16:29:15 - Temp_Bathroom state updated to 68.9
+2014-11-28 16:29:16 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:16 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:16 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:17 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:17 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:17 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:17 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:17 - Lumin_Sensor_Bedroom1 state updated to 235
+2014-11-28 16:29:17 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:17 - Temp_Bedroom1 state updated to 65.1
+2014-11-28 16:29:18 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:18 - Lumin_Sensor_Hallway state updated to 123
+2014-11-28 16:29:18 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:18 - Temp_Hallway state updated to 67.4
+2014-11-28 16:29:18 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:18 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:18 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:19 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:19 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:19 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:20 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:20 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:20 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:21 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:21 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:22 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:23 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:23 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:23 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:25 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:25 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:25 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:25 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:25 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:26 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:26 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:26 - Temp_Bedroom2 state updated to 69.1
+2014-11-28 16:29:26 - Temp_Bathroom state updated to 69.1
+2014-11-28 16:29:26 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:26 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:26 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:27 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:27 - Lumin_Sensor_Bedroom1 state updated to 247
+2014-11-28 16:29:27 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:27 - Temp_Bedroom1 state updated to 65.1
+2014-11-28 16:29:28 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:28 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:28 - Lumin_Sensor_Hallway state updated to 125
+2014-11-28 16:29:28 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:28 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:28 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:28 - Temp_Hallway state updated to 67.4
+2014-11-28 16:29:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:29 - Motion_Sensor_Bedroom1 state updated to CLOSED
+2014-11-28 16:29:29 - flag_bedroom1 received command ON
+2014-11-28 16:29:30 - ActivityBedroom1 received command CLOSED
+2014-11-28 16:29:30 - flag_bedroom1 received command OFF
+2014-11-28 16:29:30 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:30 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:30 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:31 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:31 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:35 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:35 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:35 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:35 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:35 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:35 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:36 - Temp_Bedroom2 state updated to 69.2
+2014-11-28 16:29:36 - Temp_Bathroom state updated to 69.2
+2014-11-28 16:29:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:37 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:37 - Lumin_Sensor_Bedroom1 state updated to 251
+2014-11-28 16:29:37 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:37 - Temp_Bedroom1 state updated to 65.2
+2014-11-28 16:29:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:38 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:38 - Lumin_Sensor_Hallway state updated to 124
+2014-11-28 16:29:38 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:38 - Temp_Hallway state updated to 67.4
+2014-11-28 16:29:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:41 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:41 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:41 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:44 - Weather_Temperature state updated to 10
+2014-11-28 16:29:44 - Weather_LastUpdate state updated to 2014-11-28T16:29:44
+2014-11-28 16:29:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:44 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:44 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:45 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:45 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:45 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:45 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:46 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:46 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:46 - Temp_Bedroom2 state updated to 69.2
+2014-11-28 16:29:46 - Temp_Bathroom state updated to 69.2
+2014-11-28 16:29:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:47 - Lumin_Sensor_Bedroom1 state updated to 253
+2014-11-28 16:29:47 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:47 - Temp_Bedroom1 state updated to 65.1
+2014-11-28 16:29:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:48 - Lumin_Sensor_Hallway state updated to 124
+2014-11-28 16:29:48 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:48 - Temp_Hallway state updated to 67.4
+2014-11-28 16:29:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:51 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:52 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:52 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:55 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:29:55 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:29:55 - Lumin_Sensor_Bathroom state updated to 156
+2014-11-28 16:29:55 - Lumin_Sensor_Bedroom2 state updated to 156
+2014-11-28 16:29:55 - Humid_Sensor_Bedroom2 state updated to 28
+2014-11-28 16:29:55 - Humid_Sensor_Bathroom state updated to 28
+2014-11-28 16:29:55 - Temp_Bedroom2 state updated to 69.5
+2014-11-28 16:29:55 - Temp_Bathroom state updated to 69.5
+2014-11-28 16:29:56 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+
+2014-11-28 16:29:56 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:29:56 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:57 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:57 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:57 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:29:57 - Lumin_Sensor_Bedroom1 state updated to 263
+2014-11-28 16:29:57 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:29:57 - Temp_Bedroom1 state updated to 65.1
+2014-11-28 16:29:58 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:58 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:58 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:29:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:29:58 - Lumin_Sensor_Hallway state updated to 125
+2014-11-28 16:29:58 - Humid_Sensor_Hallway state updated to 27
+2014-11-28 16:29:58 - Temp_Hallway state updated to 67.4
+2014-11-28 16:29:59 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:29:59 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:29:59 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:30:00 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:30:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:30:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:30:01 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:30:01 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:30:01 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:30:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:30:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:30:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:02 - flag_hallway received command OFF
+2014-11-28 16:56:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:02 - flag_bedroom1 received command OFF
+2014-11-28 16:56:03 - flag_bedroom2 received command OFF
+2014-11-28 16:56:03 - flag_bathroom received command OFF
+2014-11-28 16:56:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:03 - flag_kitchen received command OFF
+2014-11-28 16:56:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:03 - CTV_Arduino_Bedroom1 received command OFF
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom1 received command OFF
+2014-11-28 16:56:03 - CPressure_Arduino_Bedroom2 received command OFF
+2014-11-28 16:56:03 - CPressure_Arduino_Bathroom received command OFF
+2014-11-28 16:56:03 - CPressure_Arduino_Hallway received command OFF
+2014-11-28 16:56:03 - CLedDoor_Arduino_Bedroom1 received command OFF
+2014-11-28 16:56:03 - CLedDoor_Arduino_Bedroom2 received command OFF
+2014-11-28 16:56:03 - CLedDoor_Arduino_Bathroom received command OFF
+2014-11-28 16:56:03 - ActivityBedroom1 received command CLOSED
+2014-11-28 16:56:03 - ActivityBedroom2 received command CLOSED
+2014-11-28 16:56:03 - ActivityHallway received command CLOSED
+2014-11-28 16:56:03 - ActivityBathroom received command CLOSED
+2014-11-28 16:56:03 - ActivityKitchen received command CLOSED
+2014-11-28 16:56:04 - Weather_Temp_Max state updated to 10
+2014-11-28 16:56:04 - Weather_Temp_Min state updated to 10
+2014-11-28 16:56:04 - Weather_Temp_Max state updated to 10
+2014-11-28 16:56:04 - Weather_Temp_Min state updated to 10
+2014-11-28 16:56:04 - Weather_LastUpdate state updated to 2014-11-28T16:56:04
+2014-11-28 16:56:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:04 - Date state updated to 2014-11-28T16:56:04
+2014-11-28 16:56:04 - Weather_Temperature state updated to 10
+2014-11-28 16:56:04 - Weather_LastUpdate state updated to 2014-11-28T16:56:04
+2014-11-28 16:56:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:10 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:11 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:11 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:11 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:12 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:12 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:12 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:13 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:13 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:13 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:14 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:14 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:14 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:15 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:15 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:15 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:16 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:56:16 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:56:16 - Lumin_Sensor_Bathroom state updated to 50
+2014-11-28 16:56:16 - Lumin_Sensor_Bedroom2 state updated to 50
+2014-11-28 16:56:16 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:16 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:16 - Temp_Bedroom2 state updated to 71.3
+2014-11-28 16:56:16 - Temp_Bathroom state updated to 71.3
+2014-11-28 16:56:16 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:16 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:16 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:17 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:17 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:17 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:18 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:56:18 - Lumin_Sensor_Bedroom1 state updated to 135
+2014-11-28 16:56:18 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:56:18 - Temp_Bedroom1 state updated to 66.5
+2014-11-28 16:56:18 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:56:18 - Lumin_Sensor_Hallway state updated to 8
+2014-11-28 16:56:18 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:56:18 - Temp_Hallway state updated to 69.6
+2014-11-28 16:56:18 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:18 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:18 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:19 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:19 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:20 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:21 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:21 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:21 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:22 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:22 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:22 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:23 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:23 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:23 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:24 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:24 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:24 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:25 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:25 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:25 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:26 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:56:26 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:56:26 - Lumin_Sensor_Bathroom state updated to 51
+2014-11-28 16:56:26 - Lumin_Sensor_Bedroom2 state updated to 51
+2014-11-28 16:56:26 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:26 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:26 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:26 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:26 - Motion_Sensor_Bathroom state updated to OPEN
+2014-11-28 16:56:26 - Motion_Sensor_Bedroom2 state updated to OPEN
+2014-11-28 16:56:26 - Temp_Bedroom2 state updated to 71.3
+2014-11-28 16:56:26 - Temp_Bathroom state updated to 71.3
+2014-11-28 16:56:26 - flag_bathroom received command ON
+2014-11-28 16:56:26 - flag_bedroom2 received command ON
+2014-11-28 16:56:26 - ActivityBathroom received command OPEN
+2014-11-28 16:56:26 - flag_bathroom received command OFF
+2014-11-28 16:56:26 - ActivityBedroom2 received command OPEN
+2014-11-28 16:56:26 - flag_bedroom2 received command OFF
+2014-11-28 16:56:26 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:26 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:26 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:27 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:27 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:27 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:27 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:56:28 - Lumin_Sensor_Bedroom1 state updated to 142
+2014-11-28 16:56:28 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:56:28 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:56:28 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:56:28 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:56:28 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:56:28 - Motion_Sensor_Hallway state updated to CLOSED
+2014-11-28 16:56:28 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:56:28 - LHallway received command OFF
+2014-11-28 16:56:28 - flag_hallway received command ON
+2014-11-28 16:56:28 - ActivityHallway received command CLOSED
+2014-11-28 16:56:28 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:28 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:28 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:28 - flag_hallway received command OFF
+2014-11-28 16:56:29 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:29 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:29 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:31 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:31 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:31 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:32 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:32 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:32 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:33 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:33 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:33 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:34 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:34 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:34 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:35 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:35 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:35 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:36 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:56:36 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:56:36 - Lumin_Sensor_Bathroom state updated to 52
+2014-11-28 16:56:36 - Lumin_Sensor_Bedroom2 state updated to 52
+2014-11-28 16:56:36 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:36 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:36 - Temp_Bedroom2 state updated to 71.2
+2014-11-28 16:56:36 - Temp_Bathroom state updated to 71.2
+2014-11-28 16:56:36 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:36 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:36 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:37 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:37 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:37 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:38 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:56:38 - Lumin_Sensor_Bedroom1 state updated to 140
+2014-11-28 16:56:38 - Humid_Sensor_Bedroom1 state updated to 22
+2014-11-28 16:56:38 - Temp_Bedroom1 state updated to 66.5
+2014-11-28 16:56:38 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:56:38 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:56:38 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:56:38 - Temp_Hallway state updated to 69.6
+2014-11-28 16:56:38 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:38 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:38 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:39 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:39 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:39 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:40 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:40 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:40 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:42 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:42 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:42 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:43 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:43 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:43 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:44 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:44 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:44 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:45 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:45 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:45 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:46 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:56:46 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:56:46 - Lumin_Sensor_Bathroom state updated to 50
+2014-11-28 16:56:46 - Lumin_Sensor_Bedroom2 state updated to 50
+2014-11-28 16:56:46 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:46 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:46 - Temp_Bedroom2 state updated to 71.4
+2014-11-28 16:56:46 - Temp_Bathroom state updated to 71.4
+2014-11-28 16:56:46 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:46 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:46 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:47 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:47 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:47 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:47 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:56:48 - Lumin_Sensor_Bedroom1 state updated to 139
+2014-11-28 16:56:48 - Humid_Sensor_Bedroom1 state updated to 22
+2014-11-28 16:56:48 - Temp_Bedroom1 state updated to 66.6
+2014-11-28 16:56:48 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:56:48 - Lumin_Sensor_Hallway state updated to 9
+2014-11-28 16:56:48 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:56:48 - Temp_Hallway state updated to 69.7
+2014-11-28 16:56:48 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:48 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:48 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:49 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:49 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:49 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:50 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:50 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:50 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:51 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:51 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:52 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:53 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:53 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:53 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:54 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:56:54 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:56:54 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:56:56 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:56:56 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:56:56 - Lumin_Sensor_Bathroom state updated to 52
+2014-11-28 16:56:56 - Lumin_Sensor_Bedroom2 state updated to 52
+2014-11-28 16:56:56 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:56:56 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:56:56 - Temp_Bedroom2 state updated to 71.2
+2014-11-28 16:56:56 - Temp_Bathroom state updated to 71.2
+2014-11-28 16:56:57 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:56:58 - Lumin_Sensor_Bedroom1 state updated to 145
+2014-11-28 16:56:58 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:56:58 - Temp_Bedroom1 state updated to 66.7
+2014-11-28 16:56:58 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:56:58 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:56:58 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:56:58 - Temp_Hallway state updated to 69.6
+2014-11-28 16:57:00 - ArduinoCoordinator state updated to 2~OFF
+2~OFF
+2~OFF
+
+2014-11-28 16:57:00 - SPressure_Arduino_Bedroom1 state updated to OFF
+2
+2014-11-28 16:57:00 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:02 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:02 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:02 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:03 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:03 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:03 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:04 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:04 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:04 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:05 - Weather_Temperature state updated to 10
+2014-11-28 16:57:05 - Weather_LastUpdate state updated to 2014-11-28T16:57:05
+2014-11-28 16:57:05 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:05 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:05 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:06 - Battery_Sensor_Bathroom state updated to 100
+2014-11-28 16:57:06 - Battery_Sensor_Bedroom2 state updated to 100
+2014-11-28 16:57:06 - Lumin_Sensor_Bathroom state updated to 50
+2014-11-28 16:57:06 - Lumin_Sensor_Bedroom2 state updated to 50
+2014-11-28 16:57:06 - Humid_Sensor_Bedroom2 state updated to 26
+2014-11-28 16:57:06 - Humid_Sensor_Bathroom state updated to 26
+2014-11-28 16:57:06 - Temp_Bedroom2 state updated to 71.4
+2014-11-28 16:57:06 - Temp_Bathroom state updated to 71.4
+2014-11-28 16:57:06 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:06 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:06 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:07 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:07 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:07 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:08 - Battery_Sensor_Bedroom1 state updated to 100
+2014-11-28 16:57:08 - Lumin_Sensor_Bedroom1 state updated to 144
+2014-11-28 16:57:08 - Humid_Sensor_Bedroom1 state updated to 23
+2014-11-28 16:57:08 - Temp_Bedroom1 state updated to 66.4
+2014-11-28 16:57:08 - Battery_Sensor_Hallway state updated to 100
+2014-11-28 16:57:08 - Lumin_Sensor_Hallway state updated to 7
+2014-11-28 16:57:08 - Humid_Sensor_Hallway state updated to 25
+2014-11-28 16:57:08 - Temp_Hallway state updated to 69.7
+2014-11-28 16:57:08 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:08 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:08 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:09 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:09 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:09 - CPressure_Arduino_Bedroom1 received command CLOSED
+2014-11-28 16:57:10 - ArduinoCoordinator state updated to 2~OFF
+
+2014-11-28 16:57:10 - SPressure_Arduino_Bedroom1 state updated to OFF
+
+2014-11-28 16:57:10 - CPressure_Arduino_Bedroom1 received command CLOSED
